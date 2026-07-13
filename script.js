@@ -36,7 +36,6 @@ document.querySelectorAll('.film-card').forEach(card => {
 
 const projects = {
   toilet:{title:'新月马桶 / 三维产品视频',category:'BATHROOM FILM',description:'以产品结构、流动光影与使用情境为重点的卫浴产品三维影片。',video:'assets/videos/bathroom-toilet.mp4',poster:'assets/works/p1.jpg',index:'01 / 08'},
-  tubler:{title:'Tubler / 卫浴产品影片',category:'PRODUCT FILM',description:'通过镜头运动与空间氛围呈现产品质感和功能表达。',video:'assets/videos/ai-node-6.mp4',poster:'assets/works/p2.jpg',index:'02 / 08'},
   bosco:{title:'BOSCO / 品牌动态视觉',category:'BRAND FILM',description:'围绕品牌感知与产品形象打造的三维动态视觉内容。',video:'assets/videos/brand-bosco.mp4',poster:'assets/works/x1.jpg',index:'03 / 08'},
   qsj:{title:'商业产品 / 品牌影像',category:'COMMERCIAL FILM',description:'将产品卖点与视觉节奏融合的商业三维广告影片。',video:'assets/videos/brand-qsj.mp4',poster:'assets/works/c1.jpg',index:'04 / 08'},
   oppo:{title:'OPPO / 产品广告片',category:'PRODUCT CAMPAIGN',description:'以科技产品的形态、细节和速度感为核心的视觉广告。',video:'assets/videos/brand-oppo.mp4',poster:'assets/works/c.jpg',index:'05 / 08'},
