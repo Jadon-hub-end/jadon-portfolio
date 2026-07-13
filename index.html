@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="程玉栋 - 商业三维视觉设计与动态影像作品集。">
+  <title>程玉栋 | 3D Visual Designer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@300;400;500;600&family=Noto+Sans+SC:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="showcase-home">
+  <header class="showcase-nav">
+    <a class="showcase-mark" href="index.html">CYD<span>三维视觉工作室</span></a>
+    <nav aria-label="主导航">
+      <a href="index.html" class="active">首页 <small>Home</small></a>
+      <a href="works.html">作品集 <small>Portfolio</small></a>
+      <a href="profile.html">关于我与技能 <small>About & Skills</small></a>
+      <a href="contact.html">联系我 <small>Contact</small></a>
+    </nav>
+    <button class="menu-toggle" aria-label="打开导航" aria-expanded="false"><i></i><i></i></button>
+  </header>
+
+  <main class="showcase">
+    <section class="showcase-slide active" data-title="AI 视频节点 6" data-subtitle="AI VISUAL" data-description="" data-href="project.html?id=ai-node-6">
+      <video muted loop playsinline preload="metadata" poster="assets/works/x4.jpg"><source src="assets/videos/ai-node-6.mp4" type="video/mp4"></video>
+      <div class="showcase-shade"></div>
+    </section>
+    <section class="showcase-slide" data-title="家电产品视觉" data-subtitle="APPLIANCE FILM" data-description="以工业细节和高对比光影，建立科技产品的精密感知。" data-href="project.html?id=appliance">
+      <video muted loop playsinline preload="metadata" poster="assets/works/01.jpg"><source src="assets/videos/appliance-2024.mp4" type="video/mp4"></video>
+      <div class="showcase-shade"></div>
+    </section>
+    <section class="showcase-slide" data-title="AI 分镜视频 #2" data-subtitle="AI STORYBOARD" data-description="" data-href="project.html?id=ai-storyboard-2">
+      <video muted loop playsinline preload="metadata" poster="assets/works/p4.jpg"><source src="assets/videos/ai-storyboard-2.mp4" type="video/mp4"></video>
+      <div class="showcase-shade"></div>
+    </section>
+    <section class="showcase-slide" data-title="AI 分镜视频 #6" data-subtitle="AI STORYBOARD" data-description="" data-href="project.html?id=ai-storyboard-6">
+      <video muted loop playsinline preload="metadata" poster="assets/works/x2.jpg"><source src="assets/videos/ai-storyboard-6.mp4" type="video/mp4"></video>
+      <div class="showcase-shade"></div>
+    </section>
+
+    <div class="showcase-hud">
+      <div class="showcase-copy showcase-glass"><p class="showcase-eyebrow">JADON / 程玉栋个人视觉作品集</p><a class="showcase-link" id="slide-link" href="works.html">进入作品集 <b>↗</b></a></div>
+      <div class="showcase-controls">
+      <button class="showcase-arrow" data-direction="previous" aria-label="上一支作品">←</button>
+      <div class="showcase-count"><b id="slide-current">01</b><i></i><span>04</span></div>
+      <button class="showcase-arrow" data-direction="next" aria-label="下一支作品">→</button>
+      </div>
+      <div class="showcase-bottom"><span>JADON · 上海</span><span>向下浏览 / 探索</span><a href="profile.html">进入个人介绍 ↗</a></div>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
