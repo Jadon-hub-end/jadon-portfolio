@@ -3,4 +3,3 @@ tmp/
 .agents/
 
 # Keep original masters locally; EdgeOne limits individual files to 25 MiB.
-assets/videos/appliance-2024.mp4
