@@ -36,11 +36,11 @@ document.querySelectorAll('.film-card').forEach(card => {
 
 const projects = {
   toilet:{title:'新月马桶 / 三维产品视频',category:'BATHROOM FILM',description:'以产品结构、流动光影与使用情境为重点的卫浴产品三维影片。',video:'assets/videos/bathroom-toilet.mp4',poster:'assets/works/p1.jpg',index:'01 / 08'},
-  tubler:{title:'Tubler / 卫浴产品影片',category:'PRODUCT FILM',description:'通过镜头运动与空间氛围呈现产品质感和功能表达。',video:'assets/videos/bathroom-tubler.mp4',poster:'assets/works/p2.jpg',index:'02 / 08'},
+  tubler:{title:'Tubler / 卫浴产品影片',category:'PRODUCT FILM',description:'通过镜头运动与空间氛围呈现产品质感和功能表达。',video:'assets/videos/ai-node-6.mp4',poster:'assets/works/p2.jpg',index:'02 / 08'},
   bosco:{title:'BOSCO / 品牌动态视觉',category:'BRAND FILM',description:'围绕品牌感知与产品形象打造的三维动态视觉内容。',video:'assets/videos/brand-bosco.mp4',poster:'assets/works/x1.jpg',index:'03 / 08'},
   qsj:{title:'商业产品 / 品牌影像',category:'COMMERCIAL FILM',description:'将产品卖点与视觉节奏融合的商业三维广告影片。',video:'assets/videos/brand-qsj.mp4',poster:'assets/works/c1.jpg',index:'04 / 08'},
   oppo:{title:'OPPO / 产品广告片',category:'PRODUCT CAMPAIGN',description:'以科技产品的形态、细节和速度感为核心的视觉广告。',video:'assets/videos/brand-oppo.mp4',poster:'assets/works/c.jpg',index:'05 / 08'},
-  appliance:{title:'家电产品 / 三维视觉影片',category:'APPLIANCE FILM',description:'从产品细节到整体场景，用动态三维视觉强化家电产品体验。',video:'assets/videos/appliance-2024.mp4',poster:'assets/works/01.jpg',index:'06 / 08'},
+  appliance:{title:'家电产品 / 三维视觉影片',category:'APPLIANCE FILM',description:'从产品细节到整体场景，用动态三维视觉强化家电产品体验。',video:'assets/videos/brand-bosco.mp4',poster:'assets/works/01.jpg',index:'06 / 08'},
   mix:{title:'商业视觉 / 动态影像',category:'BRAND FILM',description:'为商业传播场景制作的品牌动态内容。',video:'assets/videos/brand-mix.mp4',poster:'assets/works/02.jpg',index:'07 / 08'},
   node:{title:'品牌视觉 / 动态片段',category:'MOTION TEST',description:'用于展示镜头、材质与动效节奏的品牌动态作品片段。',video:'assets/videos/campaign-node2.mp4',poster:'assets/works/x2.jpg',index:'08 / 13'},
   'ai-node-6':{title:'AI 视频节点 6 / 动态视觉工作流',category:'AI FEATURE / NODE 06',description:'重点展示 AI 辅助动态视觉工作流：围绕画面生成、镜头衔接与动态节奏进行探索，并通过制作判断保持视觉表达的统一。',video:'assets/videos/ai-node-6.mp4',poster:'assets/works/x4.jpg',index:'09 / 13'},
