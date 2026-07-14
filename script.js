@@ -25,6 +25,8 @@ filters.forEach(filter => filter.addEventListener('click', () => {
 document.querySelectorAll('.film-card').forEach(card => {
   const video = card.querySelector('video');
   if (!video) return;
+  const supportsHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+  if (!supportsHover) return;
   card.addEventListener('pointerenter', () => video.play().catch(() => {}));
   card.addEventListener('pointerleave', () => {
     video.pause();
@@ -107,7 +109,7 @@ if (showcaseSlides.length) {
       const selected = i === activeSlide;
       slide.classList.toggle('active', selected);
       const video = slide.querySelector('video');
-      if (selected) video.play().catch(() => {}); else video.pause();
+      if (selected && window.matchMedia('(hover: hover) and (pointer: fine)').matches) video.play().catch(() => {}); else video.pause();
     });
     showcaseButtons.forEach((button, i) => button.classList.toggle('active', i === activeSlide));
     // The main call-to-action always leads to the portfolio overview.
