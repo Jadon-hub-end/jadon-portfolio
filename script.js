@@ -119,7 +119,7 @@ if (showcaseSlides.length) {
       const selected = i === activeSlide;
       slide.classList.toggle('active', selected);
       const video = slide.querySelector('video');
-      if (selected && window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
+      if (selected && (window.matchMedia('(hover: hover) and (pointer: fine)').matches || window.matchMedia('(max-width: 800px)').matches)) {
         const source = video.querySelector('source');
         if (!source.src && source.dataset.src) {
           source.src = source.dataset.src;
