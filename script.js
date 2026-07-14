@@ -15,31 +15,68 @@ document.querySelectorAll('.reveal').forEach(item => revealObserver.observe(item
 
 const filters = document.querySelectorAll('.work-filters button');
 const cards = document.querySelectorAll('[data-type]');
+const prefersFinePointer = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+const isCompactViewport = window.matchMedia('(max-width: 800px)').matches;
+const previewPosters = {
+  toilet:'assets/works/p1.jpg',
+  bosco:'assets/works/x1.jpg',
+  qsj:'assets/works/c1.jpg',
+  oppo:'assets/works/c.jpg',
+  appliance:'assets/works/01.jpg',
+  mix:'assets/works/02.jpg',
+  node:'assets/works/x2.jpg',
+  'ai-node-6':'assets/works/x4.jpg',
+  'ai-node-2':'assets/works/x3.jpg',
+  'ai-storyboard-1':'assets/works/p3.jpg',
+  'ai-storyboard-2':'assets/works/p4.jpg',
+  'ai-storyboard-6':'assets/works/x2.jpg'
+};
 filters.forEach(filter => filter.addEventListener('click', () => {
   filters.forEach(item => item.classList.remove('active'));
   filter.classList.add('active');
   cards.forEach(card => card.classList.toggle('hidden', filter.dataset.filter !== 'all' && card.dataset.type !== filter.dataset.filter));
 }));
 
-// Load only visible card videos so their real first frame is the preview.
-const previewLoader = new IntersectionObserver(entries => entries.forEach(entry => {
-  if (!entry.isIntersecting) return;
-  const video = entry.target;
-  const source = video.querySelector('source');
-  if (!source.src && source.dataset.src) {
-    source.src = source.dataset.src;
-    video.load();
-  }
-  previewLoader.unobserve(video);
-}), { rootMargin: '280px 0px', threshold: 0.01 });
-document.querySelectorAll('.film-card video').forEach(video => previewLoader.observe(video));
-
-// Portfolio previews only play while the visitor is hovering a card.
 document.querySelectorAll('.film-card').forEach(card => {
   const video = card.querySelector('video');
   if (!video) return;
-  const supportsHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-  if (!supportsHover) return;
+  const projectId = new URL(card.href, window.location.href).searchParams.get('id');
+  const poster = projectId && previewPosters[projectId] ? previewPosters[projectId] : '';
+
+  if (!prefersFinePointer) {
+    if (poster) video.poster = poster;
+    video.preload = 'none';
+    if (!window.mobilePreviewLoader) {
+      window.mobilePreviewLoader = new IntersectionObserver(entries => entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        const targetVideo = entry.target;
+        const source = targetVideo.querySelector('source');
+        if (!source.src && source.dataset.src) {
+          source.src = source.dataset.src;
+          targetVideo.load();
+        }
+      }), { rootMargin: '180px 0px', threshold: 0.12 });
+    }
+    window.mobilePreviewLoader.observe(video);
+    return;
+  }
+
+  // Load only visible desktop card videos so their real first frame is the preview.
+  if (!window.previewLoader) {
+    window.previewLoader = new IntersectionObserver(entries => entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      const targetVideo = entry.target;
+      const source = targetVideo.querySelector('source');
+      if (!source.src && source.dataset.src) {
+        source.src = source.dataset.src;
+        targetVideo.load();
+      }
+      window.previewLoader.unobserve(targetVideo);
+    }), { rootMargin: '120px 0px', threshold: 0.05 });
+  }
+  window.previewLoader.observe(video);
+
+  // Desktop previews only play while the visitor is hovering a card.
   card.addEventListener('pointerenter', () => {
     const source = video.querySelector('source');
     if (!source.src && source.dataset.src) {
@@ -55,7 +92,6 @@ document.querySelectorAll('.film-card').forEach(card => {
   card.addEventListener('focusin', () => video.play().catch(() => {}));
   card.addEventListener('focusout', () => video.pause());
 });
-
 const projects = {
   toilet:{title:'新月马桶 / 三维产品视频',category:'BATHROOM FILM',description:'以产品结构、流动光影与使用情境为重点的卫浴产品三维影片。',video:'assets/videos/bathroom-toilet.mp4',poster:'assets/works/p1.jpg',index:'01 / 08'},
   bosco:{title:'BOSCO / 品牌动态视觉',category:'BRAND FILM',description:'围绕品牌感知与产品形象打造的三维动态视觉内容。',video:'assets/videos/brand-bosco.mp4',poster:'assets/works/x1.jpg',index:'03 / 08'},
@@ -88,7 +124,13 @@ if (document.body.classList.contains('project-page')) {
   const loadProjectVideo = () => {
     video.src = `${project.video}?project=${encodeURIComponent(id || 'default')}`;
     video.load();
-    video.addEventListener('loadeddata', () => video.classList.remove('is-loading'), { once: true });
+    video.addEventListener('loadeddata', () => {
+      video.classList.remove('is-loading');
+      if (isCompactViewport) {
+        video.muted = true;
+        video.play().catch(() => {});
+      }
+    }, { once: true });
     video.addEventListener('error', () => video.classList.remove('is-loading'), { once: true });
   };
   loadProjectVideo();
@@ -100,7 +142,7 @@ const stillLightbox = document.querySelector('#still-lightbox');
 if (stillLightbox) {
   const stillImage = document.querySelector('#still-lightbox-image');
   const stillTitle = document.querySelector('#still-lightbox-title');
-  document.querySelectorAll('.still-card').forEach(card => card.addEventListener('click', () => {
+  document.querySelectorAll('.still-card, .project-frames button').forEach(card => card.addEventListener('click', () => {
     stillImage.src = card.dataset.image;
     stillImage.alt = card.dataset.title;
     stillTitle.textContent = card.dataset.title;
@@ -132,14 +174,23 @@ if (showcaseSlides.length) {
       const selected = i === activeSlide;
       slide.classList.toggle('active', selected);
       const video = slide.querySelector('video');
-      if (selected && (window.matchMedia('(hover: hover) and (pointer: fine)').matches || window.matchMedia('(max-width: 800px)').matches)) {
+      if (selected && (prefersFinePointer || isCompactViewport)) {
         const source = video.querySelector('source');
         if (!source.src && source.dataset.src) {
           source.src = source.dataset.src;
           video.load();
         }
         video.play().catch(() => {});
-      } else video.pause();
+      } else {
+        video.pause();
+        if (isCompactViewport) {
+          const source = video.querySelector('source');
+          if (source && source.src) {
+            source.removeAttribute('src');
+            video.load();
+          }
+        }
+      }
     });
     showcaseButtons.forEach((button, i) => button.classList.toggle('active', i === activeSlide));
     // The main call-to-action always leads to the portfolio overview.
@@ -150,3 +201,8 @@ if (showcaseSlides.length) {
   document.querySelectorAll('.showcase-arrow').forEach(button => button.addEventListener('click', () => setSlide(activeSlide + (button.dataset.direction === 'next' ? 1 : -1))));
   setSlide(0);
 }
+
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) return;
+  document.querySelectorAll('video').forEach(video => video.pause());
+});
