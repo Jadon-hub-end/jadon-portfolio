@@ -67,6 +67,8 @@ if (document.body.classList.contains('project-page')) {
   video.load();
   video.addEventListener('loadeddata', () => video.classList.remove('is-loading'), { once: true });
   video.addEventListener('error', () => video.classList.remove('is-loading'), { once: true });
+  const directVideo = document.querySelector('#project-video-open');
+  if (directVideo) directVideo.href = project.video;
 }
 
 const stillLightbox = document.querySelector('#still-lightbox');
