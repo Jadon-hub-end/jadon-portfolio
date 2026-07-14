@@ -21,6 +21,19 @@ filters.forEach(filter => filter.addEventListener('click', () => {
   cards.forEach(card => card.classList.toggle('hidden', filter.dataset.filter !== 'all' && card.dataset.type !== filter.dataset.filter));
 }));
 
+// Load only visible card videos so their real first frame is the preview.
+const previewLoader = new IntersectionObserver(entries => entries.forEach(entry => {
+  if (!entry.isIntersecting) return;
+  const video = entry.target;
+  const source = video.querySelector('source');
+  if (!source.src && source.dataset.src) {
+    source.src = source.dataset.src;
+    video.load();
+  }
+  previewLoader.unobserve(video);
+}), { rootMargin: '280px 0px', threshold: 0.01 });
+document.querySelectorAll('.film-card video').forEach(video => previewLoader.observe(video));
+
 // Portfolio previews only play while the visitor is hovering a card.
 document.querySelectorAll('.film-card').forEach(card => {
   const video = card.querySelector('video');
