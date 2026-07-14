@@ -78,18 +78,7 @@ if (document.body.classList.contains('project-page')) {
     video.addEventListener('loadeddata', () => video.classList.remove('is-loading'), { once: true });
     video.addEventListener('error', () => video.classList.remove('is-loading'), { once: true });
   };
-  const startButton = document.querySelector('#project-video-start');
-  if (window.matchMedia('(max-width: 800px)').matches && startButton) {
-    video.classList.remove('is-loading');
-    startButton.addEventListener('click', () => {
-      startButton.hidden = true;
-      video.classList.add('is-loading');
-      loadProjectVideo();
-      video.play().catch(() => {});
-    }, { once: true });
-  } else {
-    loadProjectVideo();
-  }
+  loadProjectVideo();
   const directVideo = document.querySelector('#project-video-open');
   if (directVideo) directVideo.href = project.video;
 }
