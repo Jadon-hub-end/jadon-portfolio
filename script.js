@@ -27,7 +27,14 @@ document.querySelectorAll('.film-card').forEach(card => {
   if (!video) return;
   const supportsHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
   if (!supportsHover) return;
-  card.addEventListener('pointerenter', () => video.play().catch(() => {}));
+  card.addEventListener('pointerenter', () => {
+    const source = video.querySelector('source');
+    if (!source.src && source.dataset.src) {
+      source.src = source.dataset.src;
+      video.load();
+    }
+    video.play().catch(() => {});
+  });
   card.addEventListener('pointerleave', () => {
     video.pause();
     video.currentTime = 0;
@@ -65,10 +72,24 @@ if (document.body.classList.contains('project-page')) {
   video.removeAttribute('src');
   video.load();
   // A unique query forces the browser to discard any previous video's frame.
-  video.src = `${project.video}?project=${encodeURIComponent(id || 'default')}`;
-  video.load();
-  video.addEventListener('loadeddata', () => video.classList.remove('is-loading'), { once: true });
-  video.addEventListener('error', () => video.classList.remove('is-loading'), { once: true });
+  const loadProjectVideo = () => {
+    video.src = `${project.video}?project=${encodeURIComponent(id || 'default')}`;
+    video.load();
+    video.addEventListener('loadeddata', () => video.classList.remove('is-loading'), { once: true });
+    video.addEventListener('error', () => video.classList.remove('is-loading'), { once: true });
+  };
+  const startButton = document.querySelector('#project-video-start');
+  if (window.matchMedia('(max-width: 800px)').matches && startButton) {
+    video.classList.remove('is-loading');
+    startButton.addEventListener('click', () => {
+      startButton.hidden = true;
+      video.classList.add('is-loading');
+      loadProjectVideo();
+      video.play().catch(() => {});
+    }, { once: true });
+  } else {
+    loadProjectVideo();
+  }
   const directVideo = document.querySelector('#project-video-open');
   if (directVideo) directVideo.href = project.video;
 }
@@ -109,7 +130,14 @@ if (showcaseSlides.length) {
       const selected = i === activeSlide;
       slide.classList.toggle('active', selected);
       const video = slide.querySelector('video');
-      if (selected && window.matchMedia('(hover: hover) and (pointer: fine)').matches) video.play().catch(() => {}); else video.pause();
+      if (selected && window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
+        const source = video.querySelector('source');
+        if (!source.src && source.dataset.src) {
+          source.src = source.dataset.src;
+          video.load();
+        }
+        video.play().catch(() => {});
+      } else video.pause();
     });
     showcaseButtons.forEach((button, i) => button.classList.toggle('active', i === activeSlide));
     // The main call-to-action always leads to the portfolio overview.
