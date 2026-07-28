@@ -85,11 +85,11 @@
 .site-icp{display:inline-flex;align-items:center;gap:6px;font:500 10px "DM Mono","Noto Sans SC",sans-serif;letter-spacing:.12em;text-decoration:none;opacity:.72;transition:opacity .25s ease,color .25s ease}
 .site-icp:hover{opacity:1}
 .site-icp:before{content:"";width:18px;height:1px;background:currentColor;opacity:.55}
-.showcase-icp{position:absolute;left:50%;bottom:18px;transform:translateX(-50%);margin-left:0;color:#d9e7e3;opacity:.78}
+.showcase-icp{position:absolute;right:110px;bottom:18px;transform:none;margin-left:0;color:#d9e7e3;opacity:.78}
 .cv-footer .site-icp{display:inline-flex;margin-top:18px;color:#7d817d}
 .portfolio-footer .site-icp{display:inline-flex;margin-top:18px;color:#666}
 .contact-foot .site-icp{color:#9caea9}
 .project-footer{align-items:center}
 .project-footer-meta{display:flex;align-items:center;gap:26px}
 .project-footer .site-icp{color:#5f6769}
-@media(max-width:800px){.showcase-hud .showcase-bottom{display:grid;grid-template-columns:1fr;gap:8px}.showcase-icp{left:50%;bottom:14px}.contact-foot{height:auto;min-height:44px;padding:12px 0;gap:10px;flex-wrap:wrap}.project-footer{display:grid;gap:14px}.project-footer-meta{gap:14px;flex-wrap:wrap}.cv-footer .site-icp,.portfolio-footer .site-icp{margin-top:14px}}
+@media(max-width:800px){.showcase-hud .showcase-bottom{display:grid;grid-template-columns:1fr;gap:8px}.showcase-icp{left:auto;right:88px;bottom:14px}.contact-foot{height:auto;min-height:44px;padding:12px 0;gap:10px;flex-wrap:wrap}.project-footer{display:grid;gap:14px}.project-footer-meta{gap:14px;flex-wrap:wrap}.cv-footer .site-icp,.portfolio-footer .site-icp{margin-top:14px}}
