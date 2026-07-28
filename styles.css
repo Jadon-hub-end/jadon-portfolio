@@ -81,3 +81,15 @@
 
 /* A wide title plaque keeps the home mark closer to the visual centre than a tall card. */
 .showcase-hud{left:50%;bottom:16.5vh;transform:translateX(-50%);width:min(720px,88vw);gap:16px}.showcase-hud .showcase-copy{padding:0;border:0;border-radius:0;background:transparent;backdrop-filter:none;-webkit-backdrop-filter:none;box-shadow:none;text-align:center}.showcase-glass .showcase-eyebrow{display:inline-block;padding:0 13px;border-left:1px solid #a9d4cc;border-right:1px solid #a9d4cc;color:#dbeae6;font-size:9px;line-height:1.15;letter-spacing:.24em}.showcase-glass .showcase-title{margin:24px 0 0;font-family:Manrope,"Helvetica Neue",sans-serif;font-size:clamp(62px,7.3vw,104px);font-weight:500;line-height:.86;letter-spacing:-.065em;white-space:normal;color:#fff}.showcase-glass .showcase-title span{display:block;margin-top:17px;font-family:"Noto Serif SC","Songti SC",serif;font-size:.3em;font-weight:400;line-height:1;letter-spacing:.2em;color:#b2ded5}.showcase-title-cn{margin:24px 0 29px;font-size:10px;font-weight:500;letter-spacing:.2em;color:#e1efeb}.showcase-hud .showcase-link{margin:0 auto;padding:0 3px 10px;font-size:13px}.showcase-hud .showcase-controls{border-radius:999px}.showcase-hud .showcase-bottom{padding-top:2px}@media(max-width:800px){.showcase-hud{bottom:30px;width:min(460px,88vw);gap:12px}.showcase-hud .showcase-copy{padding:0}.showcase-glass .showcase-eyebrow{font-size:8px;letter-spacing:.16em}.showcase-glass .showcase-title{font-size:clamp(53px,14vw,74px);letter-spacing:-.06em}.showcase-glass .showcase-title span{margin-top:13px;font-size:.34em;letter-spacing:.15em}.showcase-title-cn{margin:18px 0 23px;font-size:9px;letter-spacing:.1em}}
+
+.site-icp{display:inline-flex;align-items:center;gap:6px;font:500 10px "DM Mono","Noto Sans SC",sans-serif;letter-spacing:.12em;text-decoration:none;opacity:.72;transition:opacity .25s ease,color .25s ease}
+.site-icp:hover{opacity:1}
+.site-icp:before{content:"";width:18px;height:1px;background:currentColor;opacity:.55}
+.showcase-icp{margin-left:auto;color:#d9e7e3}
+.cv-footer .site-icp{display:inline-flex;margin-top:18px;color:#7d817d}
+.portfolio-footer .site-icp{display:inline-flex;margin-top:18px;color:#666}
+.contact-foot .site-icp{color:#9caea9}
+.project-footer{align-items:center}
+.project-footer-meta{display:flex;align-items:center;gap:26px}
+.project-footer .site-icp{color:#5f6769}
+@media(max-width:800px){.showcase-hud .showcase-bottom{display:grid;grid-template-columns:1fr;gap:8px}.showcase-icp{margin-left:0}.contact-foot{height:auto;min-height:44px;padding:12px 0;gap:10px;flex-wrap:wrap}.project-footer{display:grid;gap:14px}.project-footer-meta{gap:14px;flex-wrap:wrap}.cv-footer .site-icp,.portfolio-footer .site-icp{margin-top:14px}}
