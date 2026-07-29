@@ -1,5 +1,5 @@
 const menu = document.querySelector('.menu-toggle');
-const nav = document.querySelector('.desktop-nav, .cinema-header nav, .inner-header nav');
+const nav = document.querySelector('.desktop-nav, .cinema-header nav, .inner-header nav, .showcase-nav nav');
 if (menu && nav) {
   menu.addEventListener('click', () => {
     const open = nav.classList.toggle('open');
