@@ -259,13 +259,12 @@ document.querySelectorAll('.home-column-body').forEach(track => {
   // Mouse events are more reliable than Pointer Events in this local preview.
   track.addEventListener('mousedown', event => {
     if (event.button !== 0) return;
-    // Cards are navigation controls first. Starting a press on a card must
-    // never turn a normal click into a horizontal-drag gesture.
-    if (event.target.closest('.home-asset')) return;
     beginDrag(event.clientX);
-    if (dragging) event.preventDefault();
   });
-  document.addEventListener('mousemove', event => moveDrag(event.clientX));
+  document.addEventListener('mousemove', event => {
+    moveDrag(event.clientX);
+    if (dragging && moved) event.preventDefault();
+  });
   document.addEventListener('mouseup', endDrag);
   track.addEventListener('dragstart', event => event.preventDefault());
 
