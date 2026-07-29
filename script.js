@@ -269,11 +269,13 @@ document.querySelectorAll('.home-column-body').forEach(track => {
   document.addEventListener('mouseup', endDrag);
   track.addEventListener('dragstart', event => event.preventDefault());
 
-  track.addEventListener('touchstart', event => {
-    if (event.target.closest('.home-asset')) return;
-    beginDrag(event.touches[0].clientX);
-  }, { passive: true });
-  track.addEventListener('touchmove', event => moveDrag(event.touches[0].clientX), { passive: true });
+  // On phones the touch almost always starts on a card. Track movement from
+  // the card itself, then only cancel its click after a real horizontal drag.
+  track.addEventListener('touchstart', event => beginDrag(event.touches[0].clientX), { passive: true });
+  track.addEventListener('touchmove', event => {
+    moveDrag(event.touches[0].clientX);
+    if (moved) event.preventDefault();
+  }, { passive: false });
   track.addEventListener('touchend', endDrag);
   track.addEventListener('touchcancel', endDrag);
 
