@@ -228,3 +228,8 @@
 
 /* Final desktop title anchor: centered over the perfume cap, not the left edge. */
 @media(min-width:801px){.showcase-hud .showcase-copy.showcase-copy-redesign{position:absolute!important;left:51%!important;top:20%!important;right:auto!important;bottom:auto!important;width:min(390px,32vw)!important;margin:0!important;padding:0!important;transform:translateX(-50%)!important;text-align:center!important;align-self:auto!important}.showcase-hud .showcase-copy.showcase-copy-redesign .showcase-eyebrow,.showcase-hud .showcase-copy.showcase-copy-redesign .showcase-title-cn{text-align:center!important}}
+
+@media(max-width:800px){.showcase-slide.active video{display:block!important;opacity:1!important;visibility:visible!important;object-fit:cover!important}}
+
+/* Keep linked projects clear of the fixed navigation bar. */
+.project-row[id], .video-collection[id], .still-section[id]{scroll-margin-top:110px}

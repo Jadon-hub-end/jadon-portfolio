@@ -201,6 +201,16 @@ if (showcaseSlides.length) {
   showcaseButtons.forEach(button => button.addEventListener('click', () => setSlide(Number(button.dataset.slide))));
   document.querySelectorAll('.showcase-arrow').forEach(button => button.addEventListener('click', () => setSlide(activeSlide + (button.dataset.direction === 'next' ? 1 : -1))));
   setSlide(0);
+
+  // Some mobile browsers defer autoplay until the first frame can be decoded.
+  // Retrying on readiness keeps the landing background alive without user input.
+  if (isCompactViewport) {
+    const mobileHeroVideo = showcaseSlides[0].querySelector('video');
+    mobileHeroVideo.addEventListener('canplay', () => {
+      mobileHeroVideo.muted = true;
+      mobileHeroVideo.play().catch(() => {});
+    }, { once: true });
+  }
 }
 
 document.addEventListener('visibilitychange', () => {
