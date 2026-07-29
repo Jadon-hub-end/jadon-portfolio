@@ -253,6 +253,9 @@ document.querySelectorAll('.home-column-body').forEach(track => {
   // Mouse events are more reliable than Pointer Events in this local preview.
   track.addEventListener('mousedown', event => {
     if (event.button !== 0) return;
+    // Cards are navigation controls first. Starting a press on a card must
+    // never turn a normal click into a horizontal-drag gesture.
+    if (event.target.closest('.home-asset')) return;
     beginDrag(event.clientX);
     if (dragging) event.preventDefault();
   });
@@ -260,7 +263,10 @@ document.querySelectorAll('.home-column-body').forEach(track => {
   document.addEventListener('mouseup', endDrag);
   track.addEventListener('dragstart', event => event.preventDefault());
 
-  track.addEventListener('touchstart', event => beginDrag(event.touches[0].clientX), { passive: true });
+  track.addEventListener('touchstart', event => {
+    if (event.target.closest('.home-asset')) return;
+    beginDrag(event.touches[0].clientX);
+  }, { passive: true });
   track.addEventListener('touchmove', event => moveDrag(event.touches[0].clientX), { passive: true });
   track.addEventListener('touchend', endDrag);
   track.addEventListener('touchcancel', endDrag);
@@ -287,6 +293,15 @@ document.querySelectorAll('.home-column-body').forEach(track => {
 // The three portfolio headings remain direct links even when their case lanes
 // are being dragged horizontally.
 document.querySelectorAll('.home-column-head').forEach(link => {
+  link.addEventListener('click', event => {
+    if (event.defaultPrevented || !link.href) return;
+    window.location.assign(link.href);
+  });
+});
+
+// Make every visible case card a reliable route to its matching portfolio
+// project, independent of the surrounding horizontal browsing lane.
+document.querySelectorAll('.home-asset').forEach(link => {
   link.addEventListener('click', event => {
     if (event.defaultPrevented || !link.href) return;
     window.location.assign(link.href);
