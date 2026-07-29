@@ -221,6 +221,7 @@ document.addEventListener('visibilitychange', () => {
 document.querySelectorAll('.home-column-body').forEach(track => {
   let dragging = false;
   let moved = false;
+  let suppressClickUntil = 0;
   let startX = 0;
   let startScrollLeft = 0;
 
@@ -244,6 +245,9 @@ document.querySelectorAll('.home-column-body').forEach(track => {
     if (!dragging) return;
     dragging = false;
     track.classList.remove('is-dragging');
+    // Suppress only the click generated immediately after a real drag.
+    // A later intentional click must always open its linked project.
+    if (moved) suppressClickUntil = Date.now() + 180;
   };
 
   // Mouse events are more reliable than Pointer Events in this local preview.
@@ -272,9 +276,19 @@ document.querySelectorAll('.home-column-body').forEach(track => {
   }, { passive: false });
 
   track.addEventListener('click', event => {
-    if (!moved) return;
+    if (Date.now() > suppressClickUntil) return;
     event.preventDefault();
     event.stopPropagation();
     moved = false;
+    suppressClickUntil = 0;
   }, true);
+});
+
+// The three portfolio headings remain direct links even when their case lanes
+// are being dragged horizontally.
+document.querySelectorAll('.home-column-head').forEach(link => {
+  link.addEventListener('click', event => {
+    if (event.defaultPrevented || !link.href) return;
+    window.location.assign(link.href);
+  });
 });
