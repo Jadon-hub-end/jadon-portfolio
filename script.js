@@ -18,18 +18,18 @@ const cards = document.querySelectorAll('[data-type]');
 const prefersFinePointer = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 const isCompactViewport = window.matchMedia('(max-width: 800px)').matches;
 const previewPosters = {
-  toilet:'assets/works/p1.jpg',
-  bosco:'assets/works/x1.jpg',
-  qsj:'assets/works/c1.jpg',
-  oppo:'assets/works/c.jpg',
-  appliance:'assets/works/01.jpg',
-  mix:'assets/works/02.jpg',
-  node:'assets/works/x2.jpg',
-  'ai-node-6':'assets/works/x4.jpg',
-  'ai-node-2':'assets/works/x3.jpg',
-  'ai-storyboard-1':'assets/works/p3.jpg',
-  'ai-storyboard-2':'assets/works/p4.jpg',
-  'ai-storyboard-6':'assets/works/x2.jpg'
+  toilet:'assets/posters/bathroom-toilet.jpg',
+  bosco:'assets/posters/brand-bosco.jpg',
+  qsj:'assets/posters/brand-qsj.jpg',
+  oppo:'assets/posters/brand-oppo.jpg',
+  appliance:'assets/posters/appliance-2024.jpg',
+  mix:'assets/posters/brand-mix.jpg',
+  node:'assets/posters/campaign-node2.jpg',
+  'ai-node-6':'assets/posters/ai-node-6.jpg',
+  'ai-node-2':'assets/posters/ai-node-2.jpg',
+  'ai-storyboard-1':'assets/posters/ai-storyboard-1.jpg',
+  'ai-storyboard-2':'assets/posters/ai-storyboard-2.jpg',
+  'ai-storyboard-6':'assets/posters/ai-storyboard-6.jpg'
 };
 filters.forEach(filter => filter.addEventListener('click', () => {
   filters.forEach(item => item.classList.remove('active'));
@@ -93,18 +93,18 @@ document.querySelectorAll('.film-card').forEach(card => {
   card.addEventListener('focusout', () => video.pause());
 });
 const projects = {
-  toilet:{title:'新月马桶 / 三维产品视频',category:'BATHROOM FILM',description:'以产品结构、流动光影与使用情境为重点的卫浴产品三维影片。',video:'assets/videos/bathroom-toilet.mp4',poster:'assets/works/p1.jpg',index:'01 / 08'},
-  bosco:{title:'BOSCO / 品牌动态视觉',category:'BRAND FILM',description:'围绕品牌感知与产品形象打造的三维动态视觉内容。',video:'assets/videos/brand-bosco.mp4',poster:'assets/works/x1.jpg',index:'03 / 08'},
-  qsj:{title:'商业产品 / 品牌影像',category:'COMMERCIAL FILM',description:'将产品卖点与视觉节奏融合的商业三维广告影片。',video:'assets/videos/brand-qsj.mp4',poster:'assets/works/c1.jpg',index:'04 / 08'},
-  oppo:{title:'OPPO / 产品广告片',category:'PRODUCT CAMPAIGN',description:'以科技产品的形态、细节和速度感为核心的视觉广告。',video:'assets/videos/brand-oppo.mp4',poster:'assets/works/c.jpg',index:'05 / 08'},
-  appliance:{title:'家电产品 / 三维视觉影片',category:'APPLIANCE FILM',description:'从产品细节到整体场景，用动态三维视觉强化家电产品体验。',video:'assets/videos/appliance-2024.mp4',poster:'assets/works/01.jpg',index:'06 / 08'},
-  mix:{title:'商业视觉 / 动态影像',category:'BRAND FILM',description:'为商业传播场景制作的品牌动态内容。',video:'assets/videos/brand-mix.mp4',poster:'assets/works/02.jpg',index:'07 / 08'},
-  node:{title:'品牌视觉 / 动态片段',category:'MOTION TEST',description:'用于展示镜头、材质与动效节奏的品牌动态作品片段。',video:'assets/videos/campaign-node2.mp4',poster:'assets/works/x2.jpg',index:'08 / 13'},
-  'ai-node-6':{title:'AI 视频节点 6 / 动态视觉工作流',category:'AI FEATURE / NODE 06',description:'重点展示 AI 辅助动态视觉工作流：围绕画面生成、镜头衔接与动态节奏进行探索，并通过制作判断保持视觉表达的统一。',video:'assets/videos/ai-node-6.mp4',poster:'assets/works/x4.jpg',index:'09 / 13'},
-  'ai-node-2':{title:'AI 视频节点 2 / 流程实验',category:'AI WORKFLOW / NODE 02',description:'以节点化流程组织画面与动态元素，探索 AI 辅助创作在镜头构建中的表现可能。',video:'assets/videos/ai-node-2.mp4',poster:'assets/works/x3.jpg',index:'10 / 13'},
-  'ai-storyboard-1':{title:'AI 分镜视频 #1',category:'AI STORYBOARD',description:'从分镜节奏出发进行的 AI 动态视觉实验，呈现画面叙事与镜头氛围。',video:'assets/videos/ai-storyboard-1.mp4',poster:'assets/works/p3.jpg',index:'11 / 13'},
-  'ai-storyboard-2':{title:'AI 分镜视频 #2',category:'AI STORYBOARD',description:'围绕视觉节奏与镜头转场展开的 AI 分镜探索作品。',video:'assets/videos/ai-storyboard-2.mp4',poster:'assets/works/p4.jpg',index:'12 / 13'},
-  'ai-storyboard-6':{title:'AI 分镜视频 #6',category:'AI STORYBOARD',description:'以动态画面、色彩氛围与叙事推进为重点的 AI 分镜视觉实验。',video:'assets/videos/ai-storyboard-6.mp4',poster:'assets/works/x2.jpg',index:'13 / 13'}
+  toilet:{title:'新月马桶 / 三维产品视频',category:'BATHROOM FILM',description:'以产品结构、流动光影与使用情境为重点的卫浴产品三维影片。',video:'assets/videos/bathroom-toilet.mp4',poster:'assets/posters/bathroom-toilet.jpg',index:'01 / 08'},
+  bosco:{title:'BOSCO / 品牌动态视觉',category:'BRAND FILM',description:'围绕品牌感知与产品形象打造的三维动态视觉内容。',video:'assets/videos/brand-bosco.mp4',poster:'assets/posters/brand-bosco.jpg',index:'03 / 08'},
+  qsj:{title:'商业产品 / 品牌影像',category:'COMMERCIAL FILM',description:'将产品卖点与视觉节奏融合的商业三维广告影片。',video:'assets/videos/brand-qsj.mp4',poster:'assets/posters/brand-qsj.jpg',index:'04 / 08'},
+  oppo:{title:'OPPO / 产品广告片',category:'PRODUCT CAMPAIGN',description:'以科技产品的形态、细节和速度感为核心的视觉广告。',video:'assets/videos/brand-oppo.mp4',poster:'assets/posters/brand-oppo.jpg',index:'05 / 08'},
+  appliance:{title:'家电产品 / 三维视觉影片',category:'APPLIANCE FILM',description:'从产品细节到整体场景，用动态三维视觉强化家电产品体验。',video:'assets/videos/appliance-2024.mp4',poster:'assets/posters/appliance-2024.jpg',index:'06 / 08'},
+  mix:{title:'商业视觉 / 动态影像',category:'BRAND FILM',description:'为商业传播场景制作的品牌动态内容。',video:'assets/videos/brand-mix.mp4',poster:'assets/posters/brand-mix.jpg',index:'07 / 08'},
+  node:{title:'品牌视觉 / 动态片段',category:'MOTION TEST',description:'用于展示镜头、材质与动效节奏的品牌动态作品片段。',video:'assets/videos/campaign-node2.mp4',poster:'assets/posters/campaign-node2.jpg',index:'08 / 13'},
+  'ai-node-6':{title:'AI 视频节点 6 / 动态视觉工作流',category:'AI FEATURE / NODE 06',description:'重点展示 AI 辅助动态视觉工作流：围绕画面生成、镜头衔接与动态节奏进行探索，并通过制作判断保持视觉表达的统一。',video:'assets/videos/ai-node-6.mp4',poster:'assets/posters/ai-node-6.jpg',index:'09 / 13'},
+  'ai-node-2':{title:'AI 视频节点 2 / 流程实验',category:'AI WORKFLOW / NODE 02',description:'以节点化流程组织画面与动态元素，探索 AI 辅助创作在镜头构建中的表现可能。',video:'assets/videos/ai-node-2.mp4',poster:'assets/posters/ai-node-2.jpg',index:'10 / 13'},
+  'ai-storyboard-1':{title:'AI 分镜视频 #1',category:'AI STORYBOARD',description:'从分镜节奏出发进行的 AI 动态视觉实验，呈现画面叙事与镜头氛围。',video:'assets/videos/ai-storyboard-1.mp4',poster:'assets/posters/ai-storyboard-1.jpg',index:'11 / 13'},
+  'ai-storyboard-2':{title:'AI 分镜视频 #2',category:'AI STORYBOARD',description:'围绕视觉节奏与镜头转场展开的 AI 分镜探索作品。',video:'assets/videos/ai-storyboard-2.mp4',poster:'assets/posters/ai-storyboard-2.jpg',index:'12 / 13'},
+  'ai-storyboard-6':{title:'AI 分镜视频 #6',category:'AI STORYBOARD',description:'以动态画面、色彩氛围与叙事推进为重点的 AI 分镜视觉实验。',video:'assets/videos/ai-storyboard-6.mp4',poster:'assets/posters/ai-storyboard-6.jpg',index:'13 / 13'}
 };
 if (document.body.classList.contains('project-page')) {
   const id = new URLSearchParams(window.location.search).get('id');
@@ -117,7 +117,7 @@ if (document.body.classList.contains('project-page')) {
   const video = document.querySelector('#project-video');
   video.pause();
   video.classList.add('is-loading');
-  video.poster = '';
+  video.poster = project.poster;
   video.removeAttribute('src');
   video.load();
   // A unique query forces the browser to discard any previous video's frame.
@@ -195,7 +195,8 @@ if (showcaseSlides.length) {
     showcaseButtons.forEach((button, i) => button.classList.toggle('active', i === activeSlide));
     // The main call-to-action always leads to the portfolio overview.
     if (link) link.href = 'works.html';
-    current.textContent = String(activeSlide + 1).padStart(2, '0');
+    // The redesigned home screen has no visible slide counter.
+    if (current) current.textContent = String(activeSlide + 1).padStart(2, '0');
   };
   showcaseButtons.forEach(button => button.addEventListener('click', () => setSlide(Number(button.dataset.slide))));
   document.querySelectorAll('.showcase-arrow').forEach(button => button.addEventListener('click', () => setSlide(activeSlide + (button.dataset.direction === 'next' ? 1 : -1))));
@@ -205,4 +206,65 @@ if (showcaseSlides.length) {
 document.addEventListener('visibilitychange', () => {
   if (!document.hidden) return;
   document.querySelectorAll('video').forEach(video => video.pause());
+});
+
+document.querySelectorAll('.home-column-body').forEach(track => {
+  let dragging = false;
+  let moved = false;
+  let startX = 0;
+  let startScrollLeft = 0;
+
+  const beginDrag = clientX => {
+    if (track.scrollWidth <= track.clientWidth) return;
+    dragging = true;
+    moved = false;
+    startX = clientX;
+    startScrollLeft = track.scrollLeft;
+    track.classList.add('is-dragging');
+  };
+
+  const moveDrag = clientX => {
+    if (!dragging) return;
+    const delta = clientX - startX;
+    if (Math.abs(delta) > 4) moved = true;
+    if (moved) track.scrollLeft = startScrollLeft - delta;
+  };
+
+  const endDrag = () => {
+    if (!dragging) return;
+    dragging = false;
+    track.classList.remove('is-dragging');
+  };
+
+  // Mouse events are more reliable than Pointer Events in this local preview.
+  track.addEventListener('mousedown', event => {
+    if (event.button !== 0) return;
+    beginDrag(event.clientX);
+    if (dragging) event.preventDefault();
+  });
+  document.addEventListener('mousemove', event => moveDrag(event.clientX));
+  document.addEventListener('mouseup', endDrag);
+  track.addEventListener('dragstart', event => event.preventDefault());
+
+  track.addEventListener('touchstart', event => beginDrag(event.touches[0].clientX), { passive: true });
+  track.addEventListener('touchmove', event => moveDrag(event.touches[0].clientX), { passive: true });
+  track.addEventListener('touchend', endDrag);
+  track.addEventListener('touchcancel', endDrag);
+
+  // Wheel movement also browses the lane horizontally, so laptops without a
+  // convenient drag gesture can still reveal every project.
+  track.addEventListener('wheel', event => {
+    if (track.scrollWidth <= track.clientWidth) return;
+    const distance = Math.abs(event.deltaX) > Math.abs(event.deltaY) ? event.deltaX : event.deltaY;
+    if (!distance) return;
+    event.preventDefault();
+    track.scrollLeft += distance;
+  }, { passive: false });
+
+  track.addEventListener('click', event => {
+    if (!moved) return;
+    event.preventDefault();
+    event.stopPropagation();
+    moved = false;
+  }, true);
 });

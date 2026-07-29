@@ -1,0 +1,242 @@
+{"kind":"deck","id":"pr/ivcwe6","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"ABRADI","textShapes":7}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[260,158,760,72]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"text":"上海阿布拉迪广告有限公司","textPreview":"上海阿布拉迪广告有限公司","textChars":12,"textLines":1,"bbox":[170,248,940,78]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"bbox":[500,354,280,2]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"text":"SHANGHAI ABRADI ADVERTISING","textPreview":"SHANGHAI ABRADI ADVERTISING","textChars":27,"textLines":1,"bbox":[300,380,680,20]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"text":"让每一次表达，成为品牌被记住的理由。","textPreview":"让每一次表达，成为品牌被记住的理由。","textChars":18,"textLines":1,"bbox":[210,444,860,34]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"text":"STRATEGY  /  VISUAL  /  PRODUCTION","textPreview":"STRATEGY  /  VISUAL  /  PRODUCTION","textChars":34,"textLines":1,"bbox":[310,516,660,20]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"text":"COMPANY PROFILE  ·  2026","textPreview":"COMPANY PROFILE  ·  2026","textChars":24,"textLines":1,"bbox":[72,662,280,18]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"text":"SHANGHAI","textPreview":"SHANGHAI","textChars":8,"textLines":1,"bbox":[1018,662,190,18]}
+{"kind":"image","id":"im/jqxw72dk","slide":1,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"ABRADI  /  SHANGHAI","textShapes":7}
+{"kind":"textbox","id":"sh/mxgjm5s7","slide":2,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"text":"THE POINT OF VIEW","textPreview":"THE POINT OF VIEW","textChars":17,"textLines":1,"bbox":[66,92,320,18]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"text":"好作品，\n必须先有好判断。","textPreview":"好作品， | 必须先有好判断。","textChars":13,"textLines":2,"bbox":[66,142,570,120]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"text":"我们把策略变成画面，把画面变成感受，\n再让感受留下可持续的品牌记忆。","textPreview":"我们把策略变成画面，把画面变成感受， | 再让感受留下可持续的品牌记忆。","textChars":34,"textLines":2,"bbox":[70,320,520,66]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"text":"FROM INTENT\nTO IMPACT","textPreview":"FROM INTENT | TO IMPACT","textChars":21,"textLines":2,"bbox":[66,518,300,66]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"text":"不是装饰，而是品牌的感知系统。","textPreview":"不是装饰，而是品牌的感知系统。","textChars":15,"textLines":1,"bbox":[66,602,500,24]}
+{"kind":"image","id":"im/nix0be18","slide":2,"name":"","bbox":[720,80,424,548]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"ABRADI  /  SHANGHAI","textShapes":16}
+{"kind":"textbox","id":"sh/by1svqlc","slide":3,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"text":"OUR CREATIVE SYSTEM","textPreview":"OUR CREATIVE SYSTEM","textChars":19,"textLines":1,"bbox":[66,92,330,18]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"text":"一套创意中枢，\n贯通从判断到落地。","textPreview":"一套创意中枢， | 贯通从判断到落地。","textChars":17,"textLines":2,"bbox":[66,142,610,110]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,326,42,22]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"text":"STRATEGY","textPreview":"STRATEGY","textChars":8,"textLines":1,"bbox":[142,323,180,28]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"text":"定位 / 洞察 / 创意方向","textPreview":"定位 / 洞察 / 创意方向","textChars":14,"textLines":1,"bbox":[356,326,270,24]}
+{"kind":"shape","id":"sh/m5cra54z","slide":3,"bbox":[70,370,556,1]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[70,396,42,22]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"text":"VISUAL","textPreview":"VISUAL","textChars":6,"textLines":1,"bbox":[142,393,180,28]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"text":"3D / 动态 / AI 视觉","textPreview":"3D / 动态 / AI 视觉","textChars":15,"textLines":1,"bbox":[356,396,270,24]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"bbox":[70,440,556,1]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[70,466,42,22]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"text":"PRODUCTION","textPreview":"PRODUCTION","textChars":10,"textLines":1,"bbox":[142,463,180,28]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"text":"影像 / 后期 / 技术实现","textPreview":"影像 / 后期 / 技术实现","textChars":14,"textLines":1,"bbox":[356,466,270,24]}
+{"kind":"shape","id":"sh/x8nml0ra","slide":3,"bbox":[70,510,556,1]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[70,536,42,22]}
+{"kind":"textbox","id":"sh/ja54na9g","slide":3,"text":"DEPLOYMENT","textPreview":"DEPLOYMENT","textChars":10,"textLines":1,"bbox":[142,533,180,28]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"text":"传播适配 / 多端交付","textPreview":"传播适配 / 多端交付","textChars":11,"textLines":1,"bbox":[356,536,270,24]}
+{"kind":"shape","id":"sh/e10f2twf","slide":3,"bbox":[70,580,556,1]}
+{"kind":"image","id":"im/o32dw321","slide":3,"name":"","bbox":[740,88,472,246]}
+{"kind":"image","id":"im/n2tc3y1g","slide":3,"name":"","bbox":[740,372,472,246]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"ABRADI  /  SHANGHAI","textShapes":18}
+{"kind":"textbox","id":"sh/e9sj2tsv","slide":4,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"text":"WORK\nWITH US","textPreview":"WORK | WITH US","textChars":12,"textLines":2,"bbox":[70,136,560,126]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"text":"把复杂的品牌命题，\n转化为一眼可懂的视觉表达。","textPreview":"把复杂的品牌命题， | 转化为一眼可懂的视觉表达。","textChars":23,"textLines":2,"bbox":[70,316,560,72]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"bbox":[70,426,236,2]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"text":"CAPABILITY OVERVIEW","textPreview":"CAPABILITY OVERVIEW","textChars":19,"textLines":1,"bbox":[70,454,330,20]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[704,154,42,20]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"text":"品牌策略","textPreview":"品牌策略","textChars":4,"textLines":1,"bbox":[704,194,198,30]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"text":"定位梳理 / 创意方向 / 视觉系统","textPreview":"定位梳理 / 创意方向 / 视觉系统","textChars":18,"textLines":1,"bbox":[704,240,214,42]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"bbox":[704,302,214,1]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[962,154,42,20]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"text":"产品叙事","textPreview":"产品叙事","textChars":4,"textLines":1,"bbox":[962,194,198,30]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"text":"产品价值 / 场景表达 / 材质细节","textPreview":"产品价值 / 场景表达 / 材质细节","textChars":18,"textLines":1,"bbox":[962,240,214,42]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"bbox":[962,302,214,1]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[704,350,42,20]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"text":"数字视觉","textPreview":"数字视觉","textChars":4,"textLines":1,"bbox":[704,390,198,30]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"text":"三维动态 / 影像制作 / AI视觉","textPreview":"三维动态 / 影像制作 / AI视觉","textChars":18,"textLines":1,"bbox":[704,436,214,42]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[962,350,42,20]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"text":"整合交付","textPreview":"整合交付","textChars":4,"textLines":1,"bbox":[962,390,198,30]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"text":"多端适配 / 制作统筹 / 上线支持","textPreview":"多端适配 / 制作统筹 / 上线支持","textChars":18,"textLines":1,"bbox":[962,436,214,42]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"text":"从判断到落地，\n我们让创意成为品牌长期资产。","textPreview":"从判断到落地， | 我们让创意成为品牌长期资产。","textChars":22,"textLines":2,"bbox":[704,578,500,48]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"ABRADI  /  SHANGHAI","textShapes":7}
+{"kind":"textbox","id":"sh/qd0bahob","slide":5,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"text":"01 / SMART SANITARY","textPreview":"01 / SMART SANITARY","textChars":19,"textLines":1,"bbox":[66,92,320,18]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"text":"科技的温度，\n需要被看见。","textPreview":"科技的温度， | 需要被看见。","textChars":13,"textLines":2,"bbox":[66,140,540,106]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"text":"以光感、材质与动态空间，重塑智能卫浴的感官体验。","textPreview":"以光感、材质与动态空间，重塑智能卫浴的感官体验。","textChars":24,"textLines":1,"bbox":[70,274,490,48]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"text":"TONA / DIGITAL PRODUCT VISUAL","textPreview":"TONA / DIGITAL PRODUCT VISUAL","textChars":29,"textLines":1,"bbox":[70,570,400,20]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"text":"界面、产品、空间，在同一视觉秩序里发生。","textPreview":"界面、产品、空间，在同一视觉秩序里发生。","textChars":20,"textLines":1,"bbox":[70,604,480,24]}
+{"kind":"image","id":"im/6p4fyl47","slide":5,"name":"","bbox":[644,80,548,180]}
+{"kind":"image","id":"im/tcve903i","slide":5,"name":"","bbox":[644,278,264,354]}
+{"kind":"image","id":"im/srmx0vmd","slide":5,"name":"","bbox":[928,278,264,354]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"ABRADI  /  SHANGHAI","textShapes":7}
+{"kind":"textbox","id":"sh/lkrqp4ra","slide":6,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"text":"02 / SPACE & LIFESTYLE","textPreview":"02 / SPACE & LIFESTYLE","textChars":22,"textLines":1,"bbox":[66,92,320,18]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"text":"空间不是背景，\n它是品牌的一部分。","textPreview":"空间不是背景， | 它是品牌的一部分。","textChars":17,"textLines":2,"bbox":[66,140,560,106]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"text":"让材质、光线与使用场景共同建立更具沉浸感的高级体验。","textPreview":"让材质、光线与使用场景共同建立更具沉浸感的高级体验。","textChars":26,"textLines":1,"bbox":[70,274,500,48]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"text":"RESIDENTIAL / RETAIL / PRODUCT ENVIRONMENT","textPreview":"RESIDENTIAL / RETAIL / PRODUCT ENVIRONMENT","textChars":42,"textLines":1,"bbox":[70,570,450,20]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"text":"以场景制造想象，以细节建立信任。","textPreview":"以场景制造想象，以细节建立信任。","textChars":16,"textLines":1,"bbox":[70,604,450,24]}
+{"kind":"image","id":"im/7ylcjetk","slide":6,"name":"","bbox":[650,80,542,312]}
+{"kind":"image","id":"im/8zutsju5","slide":6,"name":"","bbox":[650,412,256,216]}
+{"kind":"image","id":"im/t03ulobq","slide":6,"name":"","bbox":[936,412,256,216]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"ABRADI  /  SHANGHAI","textShapes":7}
+{"kind":"textbox","id":"sh/batcbq94","slide":7,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"text":"03 / PRODUCT DETAIL","textPreview":"03 / PRODUCT DETAIL","textChars":19,"textLines":1,"bbox":[66,92,320,18]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"text":"细节决定\n产品的高级感。","textPreview":"细节决定 | 产品的高级感。","textChars":12,"textLines":2,"bbox":[66,140,500,106]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"text":"用材质、结构与光影，把专业能力转化为可感知的品质。","textPreview":"用材质、结构与光影，把专业能力转化为可感知的品质。","textChars":25,"textLines":1,"bbox":[70,274,500,48]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"text":"OBJECT / MATERIAL / LIGHT","textPreview":"OBJECT / MATERIAL / LIGHT","textChars":25,"textLines":1,"bbox":[70,570,360,20]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"text":"从一个产品切面，建立完整的感知价值。","textPreview":"从一个产品切面，建立完整的感知价值。","textChars":18,"textLines":1,"bbox":[70,604,490,24]}
+{"kind":"image","id":"im/x0fet8ze","slide":7,"name":"","bbox":[638,82,274,258]}
+{"kind":"image","id":"im/axovit03","slide":7,"name":"","bbox":[930,82,262,258]}
+{"kind":"image","id":"im/byxwryh8","slide":7,"name":"","bbox":[638,360,554,268]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"ABRADI  /  SHANGHAI","textShapes":11}
+{"kind":"textbox","id":"sh/elkf2pg7","slide":8,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"text":"SELECTED\nPORTFOLIO","textPreview":"SELECTED | PORTFOLIO","textChars":18,"textLines":2,"bbox":[66,108,470,116]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"text":"跨品类的表达，\n共享同一套完成度。","textPreview":"跨品类的表达， | 共享同一套完成度。","textChars":17,"textLines":2,"bbox":[70,270,430,64]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"bbox":[70,376,408,2]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"text":"四种行业场景  /  一种视觉标准","textPreview":"四种行业场景  /  一种视觉标准","textChars":17,"textLines":1,"bbox":[70,402,410,24]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"text":"空间体验\n美妆健康\n产品设计\n家居美学","textPreview":"空间体验 | 美妆健康 | 产品设计 | 家居美学","textChars":19,"textLines":4,"bbox":[70,468,280,126]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"text":"SPACE EXPERIENCE\nBEAUTY VISUAL\nPRODUCT SYSTEM\nHOME AESTHETIC","textPreview":"SPACE EXPERIENCE | BEAUTY VISUAL | PRODUCT SYSTEM | HOME AESTHETIC","textChars":60,"textLines":4,"bbox":[340,468,230,126]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"bbox":[622,78,270,256]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"bbox":[922,78,270,256]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"bbox":[622,370,270,256]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"bbox":[922,370,270,256]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"text":"01  SPACE / TUBLER","textPreview":"01  SPACE / TUBLER","textChars":18,"textLines":1,"bbox":[634,292,230,18]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"text":"02  BEAUTY / MESTETIC","textPreview":"02  BEAUTY / MESTETIC","textChars":21,"textLines":1,"bbox":[934,292,230,18]}
+{"kind":"textbox","id":"sh/lgbepgvm","slide":8,"text":"03  WATER / KOHLER","textPreview":"03  WATER / KOHLER","textChars":18,"textLines":1,"bbox":[634,584,230,18]}
+{"kind":"textbox","id":"sh/tw7e9gnq","slide":8,"text":"04  HOME / BRILLIANCE","textPreview":"04  HOME / BRILLIANCE","textChars":21,"textLines":1,"bbox":[934,584,230,18]}
+{"kind":"image","id":"im/jqhsb2ls","slide":8,"name":"","bbox":[634,90,246,186]}
+{"kind":"image","id":"im/krqtkn2x","slide":8,"name":"","bbox":[934,90,246,186]}
+{"kind":"image","id":"im/lszads3i","slide":8,"name":"","bbox":[634,382,246,186]}
+{"kind":"image","id":"im/alored4v","slide":8,"name":"","bbox":[934,382,246,186]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"ABRADI  /  SHANGHAI","textShapes":17}
+{"kind":"textbox","id":"sh/eponml43","slide":9,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"text":"INDUSTRY REACH","textPreview":"INDUSTRY REACH","textChars":14,"textLines":1,"bbox":[66,92,260,18]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"text":"不同赛道，\n同一个视觉标准。","textPreview":"不同赛道， | 同一个视觉标准。","textChars":14,"textLines":2,"bbox":[66,142,560,108]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"text":"以品牌的真实场景为起点，让每一个品类拥有自己的表达方式。","textPreview":"以品牌的真实场景为起点，让每一个品类拥有自己的表达方式。","textChars":28,"textLines":1,"bbox":[70,274,520,42]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[66,372,48,20]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"text":"智能家居","textPreview":"智能家居","textChars":4,"textLines":1,"bbox":[126,368,190,28]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"text":"卫浴 / 厨电 / 空间","textPreview":"卫浴 / 厨电 / 空间","textChars":12,"textLines":1,"bbox":[126,404,190,22]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[352,372,48,20]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"text":"交通出行","textPreview":"交通出行","textChars":4,"textLines":1,"bbox":[412,368,190,28]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"text":"轨交 / 汽车 / 工业","textPreview":"轨交 / 汽车 / 工业","textChars":12,"textLines":1,"bbox":[412,404,190,22]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[66,477,48,20]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"text":"美妆健康","textPreview":"美妆健康","textChars":4,"textLines":1,"bbox":[126,473,190,28]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"text":"护肤 / 医美 / 科技美容","textPreview":"护肤 / 医美 / 科技美容","textChars":14,"textLines":1,"bbox":[126,509,190,22]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[352,477,48,20]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"text":"消费科技","textPreview":"消费科技","textChars":4,"textLines":1,"bbox":[412,473,190,28]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"text":"数码 / 硬件 / 新产品","textPreview":"数码 / 硬件 / 新产品","textChars":13,"textLines":1,"bbox":[412,509,190,22]}
+{"kind":"image","id":"im/jixovqds","slide":9,"name":"","bbox":[704,80,488,548]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"ABRADI  /  SHANGHAI","textShapes":13}
+{"kind":"textbox","id":"sh/q9sn69kb","slide":10,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"text":"RESOURCE NETWORK","textPreview":"RESOURCE NETWORK","textChars":16,"textLines":1,"bbox":[66,92,300,18]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"text":"用合适的人，\n完成合适的表达。","textPreview":"用合适的人， | 完成合适的表达。","textChars":15,"textLines":2,"bbox":[66,142,570,106]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"text":"由核心创意与项目团队统筹，按项目协同视觉、影像、三维、后期与技术资源。","textPreview":"由核心创意与项目团队统筹，按项目协同视觉、影像、三维、后期与技术资源。","textChars":35,"textLines":1,"bbox":[70,274,550,48]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"bbox":[68,390,292,78]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"text":"CREATIVE","textPreview":"CREATIVE","textChars":8,"textLines":1,"bbox":[86,405,120,20]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"text":"策略 / 概念 / 视觉方向","textPreview":"策略 / 概念 / 视觉方向","textChars":14,"textLines":1,"bbox":[86,432,240,20]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"bbox":[394,390,292,78]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"text":"VISUAL","textPreview":"VISUAL","textChars":6,"textLines":1,"bbox":[412,405,120,20]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"text":"三维 / 动态 / AI 视觉","textPreview":"三维 / 动态 / AI 视觉","textChars":15,"textLines":1,"bbox":[412,432,240,20]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"bbox":[68,496,292,78]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"text":"CONTENT","textPreview":"CONTENT","textChars":7,"textLines":1,"bbox":[86,511,120,20]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"text":"导演 / 摄影 / 剪辑制作","textPreview":"导演 / 摄影 / 剪辑制作","textChars":14,"textLines":1,"bbox":[86,538,240,20]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"bbox":[394,496,292,78]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"text":"TECH","textPreview":"TECH","textChars":4,"textLines":1,"bbox":[412,511,120,20]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"text":"互动 / 屏幕 / 多端适配","textPreview":"互动 / 屏幕 / 多端适配","textChars":14,"textLines":1,"bbox":[412,538,240,20]}
+{"kind":"image","id":"im/ra907i14","slide":10,"name":"","bbox":[770,92,422,500]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"ABRADI  /  SHANGHAI","textShapes":7}
+{"kind":"textbox","id":"sh/a90z21on","slide":11,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"text":"CASE STUDY / RAIL TRANSIT","textPreview":"CASE STUDY / RAIL TRANSIT","textChars":25,"textLines":1,"bbox":[66,92,330,18]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"text":"让复杂技术，\n拥有未来感的叙事。","textPreview":"让复杂技术， | 拥有未来感的叙事。","textChars":16,"textLines":2,"bbox":[66,140,550,106]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"text":"以冷色光线、速度透视与工业结构，建立可感知的科技想象。","textPreview":"以冷色光线、速度透视与工业结构，建立可感知的科技想象。","textChars":27,"textLines":1,"bbox":[70,274,510,48]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"text":"TRANSPORT VISUAL / DIGITAL ENVIRONMENT","textPreview":"TRANSPORT VISUAL / DIGITAL ENVIRONMENT","textChars":38,"textLines":1,"bbox":[70,570,450,20]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"text":"为技术内容建立一条可进入、可记住的视觉路径。","textPreview":"为技术内容建立一条可进入、可记住的视觉路径。","textChars":22,"textLines":1,"bbox":[70,604,500,24]}
+{"kind":"image","id":"im/bq5ovmlw","slide":11,"name":"","bbox":[642,82,550,309]}
+{"kind":"image","id":"im/qpwnm1kb","slide":11,"name":"","bbox":[642,411,550,309]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"ABRADI  /  SHANGHAI","textShapes":7}
+{"kind":"textbox","id":"sh/edk3ed4j","slide":12,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"text":"CASE STUDY / BEAUTY","textPreview":"CASE STUDY / BEAUTY","textChars":19,"textLines":1,"bbox":[66,92,300,18]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"text":"把功效，\n变成一种质感。","textPreview":"把功效， | 变成一种质感。","textChars":12,"textLines":2,"bbox":[66,140,500,106]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"text":"从成分想象到产品氛围，以光影、色彩与材质构建品牌的专业感。","textPreview":"从成分想象到产品氛围，以光影、色彩与材质构建品牌的专业感。","textChars":29,"textLines":1,"bbox":[70,274,520,48]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"text":"BEAUTY / HEALTH / SCIENTIFIC AESTHETICS","textPreview":"BEAUTY / HEALTH / SCIENTIFIC AESTHETICS","textChars":39,"textLines":1,"bbox":[70,570,520,20]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"text":"在克制与想象之间，建立可信又有感染力的美学。","textPreview":"在克制与想象之间，建立可信又有感染力的美学。","textChars":22,"textLines":1,"bbox":[70,604,520,24]}
+{"kind":"image","id":"im/rqdo7qls","slide":12,"name":"","bbox":[646,82,546,307]}
+{"kind":"image","id":"im/qp47yl47","slide":12,"name":"","bbox":[646,409,546,307]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"ABRADI  /  SHANGHAI","textShapes":7}
+{"kind":"textbox","id":"sh/dsr6t8bu","slide":13,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"text":"CASE STUDY / OBJECT","textPreview":"CASE STUDY / OBJECT","textChars":19,"textLines":1,"bbox":[66,92,300,18]}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"text":"从一个产品，\n到一套品牌感知。","textPreview":"从一个产品， | 到一套品牌感知。","textChars":15,"textLines":2,"bbox":[66,140,520,106]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"text":"让比例、材质和局部细节承载产品价值，而不是被信息淹没。","textPreview":"让比例、材质和局部细节承载产品价值，而不是被信息淹没。","textChars":27,"textLines":1,"bbox":[70,274,520,48]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"text":"PRODUCT STORYTELLING / MATERIAL DETAIL","textPreview":"PRODUCT STORYTELLING / MATERIAL DETAIL","textChars":38,"textLines":1,"bbox":[70,570,490,20]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"text":"把功能转译成品牌的审美语言。","textPreview":"把功能转译成品牌的审美语言。","textChars":14,"textLines":1,"bbox":[70,604,470,24]}
+{"kind":"image","id":"im/vy10zqtc","slide":13,"name":"","bbox":[640,82,552,166]}
+{"kind":"image","id":"im/wza1svux","slide":13,"name":"","bbox":[640,266,264,362]}
+{"kind":"image","id":"im/x0ji10bi","slide":13,"name":"","bbox":[928,266,264,362]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"ABRADI  /  SHANGHAI","textShapes":20}
+{"kind":"textbox","id":"sh/a9gvid8v","slide":14,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"text":"WORKING TOGETHER","textPreview":"WORKING TOGETHER","textChars":16,"textLines":1,"bbox":[66,92,300,18]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"text":"让好创意，\n有一条清晰的落地路径。","textPreview":"让好创意， | 有一条清晰的落地路径。","textChars":17,"textLines":2,"bbox":[66,140,600,106]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[68,354,42,20]}
+{"kind":"textbox","id":"sh/5grehs7i","slide":14,"text":"DEFINE","textPreview":"DEFINE","textChars":6,"textLines":1,"bbox":[68,394,204,28]}
+{"kind":"textbox","id":"sh/kfidonqx","slide":14,"text":"目标、受众、场景","textPreview":"目标、受众、场景","textChars":8,"textLines":1,"bbox":[68,438,214,24]}
+{"kind":"textbox","id":"sh/zi5c3y98","slide":14,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[296,394,30,28]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":14,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[354,354,42,20]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"text":"DIRECT","textPreview":"DIRECT","textChars":6,"textLines":1,"bbox":[354,394,204,28]}
+{"kind":"textbox","id":"sh/x4ni9ofy","slide":14,"text":"策略、概念、风格","textPreview":"策略、概念、风格","textChars":8,"textLines":1,"bbox":[354,438,214,24]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[582,394,30,28]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[640,354,42,20]}
+{"kind":"textbox","id":"sh/kre1k3y9","slide":14,"text":"MAKE","textPreview":"MAKE","textChars":4,"textLines":1,"bbox":[640,394,204,28]}
+{"kind":"textbox","id":"sh/ls7idofu","slide":14,"text":"制作、打磨、把控","textPreview":"制作、打磨、把控","textChars":8,"textLines":1,"bbox":[640,438,214,24]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[868,394,30,28]}
+{"kind":"textbox","id":"sh/z650byxo","slide":14,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[926,354,42,20]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":14,"text":"DEPLOY","textPreview":"DEPLOY","textChars":6,"textLines":1,"bbox":[926,394,204,28]}
+{"kind":"textbox","id":"sh/1w3i14fq","slide":14,"text":"交付、适配、上线","textPreview":"交付、适配、上线","textChars":8,"textLines":1,"bbox":[926,438,214,24]}
+{"kind":"shape","id":"sh/hsvy50re","slide":14,"bbox":[66,530,1142,1]}
+{"kind":"textbox","id":"sh/grmxwvqt","slide":14,"text":"全程由项目负责人统筹，关键节点确认，让创意、制作与交付保持同一节奏。","textPreview":"全程由项目负责人统筹，关键节点确认，让创意、制作与交付保持同一节奏。","textChars":34,"textLines":1,"bbox":[66,558,1060,30]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"ABRADI  /  SHANGHAI","textShapes":10}
+{"kind":"textbox","id":"sh/ihw3mlkv","slide":15,"text":"ABRADI  /  SHANGHAI","textPreview":"ABRADI  /  SHANGHAI","textChars":19,"textLines":1,"bbox":[66,32,250,18]}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1160,32,54,18]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"text":"把下一次表达，\n做成下一次记住。","textPreview":"把下一次表达， | 做成下一次记住。","textChars":16,"textLines":2,"bbox":[66,150,595,120]}
+{"kind":"shape","id":"sh/65gnqlk7","slide":15,"bbox":[70,322,164,2]}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":15,"text":"上海阿布拉迪广告有限公司","textPreview":"上海阿布拉迪广告有限公司","textChars":12,"textLines":1,"bbox":[70,362,410,24]}
+{"kind":"textbox","id":"sh/s7y5sv2x","slide":15,"text":"电话  /  TEL","textPreview":"电话  /  TEL","textChars":10,"textLines":1,"bbox":[70,414,130,16]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"text":"150 0183 4029","textPreview":"150 0183 4029","textChars":13,"textLines":1,"bbox":[70,434,300,24]}
+{"kind":"textbox","id":"sh/m9c3e1kn","slide":15,"text":"邮箱  /  EMAIL","textPreview":"邮箱  /  EMAIL","textChars":12,"textLines":1,"bbox":[70,474,150,16]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"text":"abld@abuladi.cn","textPreview":"abld@abuladi.cn","textChars":15,"textLines":1,"bbox":[70,494,300,24]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":15,"bbox":[694,278,346,326]}
+{"kind":"shape","id":"sh/upkrilwj","slide":15,"bbox":[724,382,2,92]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"text":"ABRADI / VISUAL CREATIVE PARTNER","textPreview":"ABRADI / VISUAL CREATIVE PARTNER","textChars":32,"textLines":1,"bbox":[748,384,260,16]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"text":"MAKE THE NEXT\nIMPRESSION LAST.","textPreview":"MAKE THE NEXT | IMPRESSION LAST.","textChars":30,"textLines":2,"bbox":[748,417,260,57]}
+{"kind":"image","id":"im/ids3ids7","slide":15,"name":"","bbox":[694,0,586,720]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}

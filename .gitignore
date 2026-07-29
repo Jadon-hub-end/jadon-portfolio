@@ -1,5 +1,8 @@
 tmp/
 .wrangler/
 .agents/
+downloads/
+tools/
 
 # Keep original masters locally; EdgeOne limits individual files to 25 MiB.
+seedance_work/

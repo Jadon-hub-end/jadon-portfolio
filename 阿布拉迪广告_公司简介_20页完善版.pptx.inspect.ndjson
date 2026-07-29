@@ -1,0 +1,293 @@
+{"kind":"deck","id":"pr/7n5y3d","name":"Deck"}
+{"kind":"layout","layoutId":"dffa83b4-080a-46cc-951e-3cbe3da480f0","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"0f775b59-355a-45d3-99db-4e0ff2a16645","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/fdhqbc","slide":1,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/03ipsji1","slide":1,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/z298jehg","slide":1,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[76,78,300,34]}
+{"kind":"textbox","id":"sh/e107qt0v","slide":1,"text":"上海阿布拉迪广告有限公司","textPreview":"上海阿布拉迪广告有限公司","textChars":12,"textLines":1,"bbox":[76,132,650,70]}
+{"kind":"textbox","id":"sh/dgrqhoza","slide":1,"text":"SHANGHAI ABRADI ADVERTISING","textPreview":"SHANGHAI ABRADI ADVERTISING","textChars":27,"textLines":1,"bbox":[80,218,520,25]}
+{"kind":"textbox","id":"sh/cfipojip","slide":1,"text":"数字视觉解决方案提供商","textPreview":"数字视觉解决方案提供商","textChars":11,"textLines":1,"bbox":[80,310,590,40]}
+{"kind":"textbox","id":"sh/re98feh4","slide":1,"text":"策略 / 三维动态 / 产品渲染 / AI视觉 / 影像制作","textPreview":"策略 / 三维动态 / 产品渲染 / AI视觉 / 影像制作","textChars":30,"textLines":1,"bbox":[80,372,620,25]}
+{"kind":"image","id":"im/n2p0r2x4","slide":1,"name":"","bbox":[760,0,520,720]}
+{"kind":"notes","id":"nt/fdhqbc","slide":1,"text":""}
+{"kind":"slide","id":"sl/zp0ory","slide":2,"title":"ABRADI","textShapes":11}
+{"kind":"shape","id":"sh/gnmtwrex","slide":2,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/fmds3mxc","slide":2,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/elkbuhwr","slide":2,"text":"CONTENTS / 目录","textPreview":"CONTENTS / 目录","textChars":13,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/psvutgfe","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/ormt0bet","slide":2,"text":"让品牌表达，更清晰地被看见。","textPreview":"让品牌表达，更清晰地被看见。","textChars":14,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/3qdcr6x8","slide":2,"text":"从能力、行业到项目案例，完整了解阿布拉迪。","textPreview":"从能力、行业到项目案例，完整了解阿布拉迪。","textChars":21,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"textbox","id":"sh/2p4by1wn","slide":2,"text":"01  公司概览","textPreview":"01  公司概览","textChars":8,"textLines":1,"bbox":[64,310,390,32]}
+{"kind":"shape","id":"sh/5wbaxcfa","slide":2,"bbox":[64,355,360,2]}
+{"kind":"textbox","id":"sh/4v2to7yp","slide":2,"text":"02  核心能力","textPreview":"02  核心能力","textChars":8,"textLines":1,"bbox":[584,310,390,32]}
+{"kind":"shape","id":"sh/ixgz6hw3","slide":2,"bbox":[584,355,360,2]}
+{"kind":"textbox","id":"sh/3yp0fmdo","slide":2,"text":"03  服务行业","textPreview":"03  服务行业","textChars":8,"textLines":1,"bbox":[64,405,390,32]}
+{"kind":"shape","id":"sh/4zyh8re9","slide":2,"bbox":[64,450,360,2]}
+{"kind":"textbox","id":"sh/507ihwvu","slide":2,"text":"04  合作方式","textPreview":"04  合作方式","textChars":8,"textLines":1,"bbox":[584,405,390,32]}
+{"kind":"shape","id":"sh/q1gza1wf","slide":2,"bbox":[584,450,360,2]}
+{"kind":"textbox","id":"sh/r290jmdk","slide":2,"text":"05  项目案例","textPreview":"05  项目案例","textChars":8,"textLines":1,"bbox":[64,500,390,32]}
+{"kind":"shape","id":"sh/s3ihcre5","slide":2,"bbox":[64,545,360,2]}
+{"kind":"textbox","id":"sh/d4rilwvq","slide":2,"text":"06  联系我们","textPreview":"06  联系我们","textChars":8,"textLines":1,"bbox":[584,500,390,32]}
+{"kind":"shape","id":"sh/e50ze1wb","slide":2,"bbox":[584,545,360,2]}
+{"kind":"notes","id":"nt/zp0ory","slide":2,"text":""}
+{"kind":"slide","id":"sl/po6adg","slide":3,"title":"ABRADI","textShapes":13}
+{"kind":"shape","id":"sh/1ozuh4vy","slide":3,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/ulobm9cn","slide":3,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/fmxcfud8","slide":3,"text":"ABOUT US / 公司概览","textPreview":"ABOUT US / 公司概览","textChars":15,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/sz6tkzuh","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/tkfud4v2","slide":3,"text":"专注数字视觉，让价值被准确看见。","textPreview":"专注数字视觉，让价值被准确看见。","textChars":16,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/6xobipwb","slide":3,"text":"服务品牌传播、产品上市、空间体验与数字内容场景。","textPreview":"服务品牌传播、产品上市、空间体验与数字内容场景。","textChars":24,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"shape","id":"sh/7yxcbudw","slide":3,"bbox":[64,355,255,150]}
+{"kind":"textbox","id":"sh/cvadgjul","slide":3,"text":"10+","textPreview":"10+","textChars":3,"textLines":1,"bbox":[86,385,210,42]}
+{"kind":"textbox","id":"sh/dgjupov6","slide":3,"text":"年数字视觉制作经验","textPreview":"年数字视觉制作经验","textChars":9,"textLines":1,"bbox":[86,445,210,30]}
+{"kind":"shape","id":"sh/lgji50n6","slide":3,"bbox":[354,355,255,150]}
+{"kind":"textbox","id":"sh/0fahwvml","slide":3,"text":"200+","textPreview":"200+","textChars":4,"textLines":1,"bbox":[376,385,210,42]}
+{"kind":"textbox","id":"sh/zeh03q50","slide":3,"text":"品牌服务经验","textPreview":"品牌服务经验","textChars":6,"textLines":1,"bbox":[376,445,210,30]}
+{"kind":"shape","id":"sh/yd8zul4f","slide":3,"bbox":[644,355,255,150]}
+{"kind":"textbox","id":"sh/dczy1gnu","slide":3,"text":"3D + AI","textPreview":"3D + AI","textChars":7,"textLines":1,"bbox":[666,385,210,42]}
+{"kind":"textbox","id":"sh/cbqhsbm9","slide":3,"text":"数字视觉能力","textPreview":"数字视觉能力","textChars":6,"textLines":1,"bbox":[666,445,210,30]}
+{"kind":"shape","id":"sh/bahgz654","slide":3,"bbox":[934,355,255,150]}
+{"kind":"textbox","id":"sh/q98zq14j","slide":3,"text":"FULL SERVICE","textPreview":"FULL SERVICE","textChars":12,"textLines":1,"bbox":[956,385,210,42]}
+{"kind":"textbox","id":"sh/h83idkne","slide":3,"text":"从策略到交付","textPreview":"从策略到交付","textChars":6,"textLines":1,"bbox":[956,445,210,30]}
+{"kind":"notes","id":"nt/po6adg","slide":3,"text":""}
+{"kind":"slide","id":"sl/9sg5sa","slide":4,"title":"ABRADI","textShapes":6}
+{"kind":"shape","id":"sh/eh43qpcz","slide":4,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/1kfm14va","slide":4,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/0j6lszu5","slide":4,"text":"OUR VALUE / 我们的价值","textPreview":"OUR VALUE / 我们的价值","textChars":17,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/nmx43edg","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/mlo3u9cv","slide":4,"text":"一套从判断到落地的视觉服务体系。","textPreview":"一套从判断到落地的视觉服务体系。","textChars":16,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/9ofm5obm","slide":4,"text":"不做单点装饰，而是建立可持续的品牌感知。","textPreview":"不做单点装饰，而是建立可持续的品牌感知。","textChars":20,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"shape","id":"sh/on6lwju1","slide":4,"bbox":[64,330,520,190]}
+{"kind":"textbox","id":"sh/3qtkradc","slide":4,"text":"策略明确品牌方向\n视觉建立产品感知\n制作确保最终呈现","textPreview":"策略明确品牌方向 | 视觉建立产品感知 | 制作确保最终呈现","textChars":26,"textLines":3,"bbox":[100,372,390,106]}
+{"kind":"image","id":"im/r21gbmto","slide":4,"name":"","bbox":[650,280,560,300]}
+{"kind":"notes","id":"nt/9sg5sa","slide":4,"text":""}
+{"kind":"slide","id":"sl/y32g5j","slide":5,"title":"ABRADI","textShapes":16}
+{"kind":"shape","id":"sh/e5gn6p4r","slide":5,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/1876h4ni","slide":5,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/g7y58zmx","slide":5,"text":"WHAT WE DO / 核心能力","textPreview":"WHAT WE DO / 核心能力","textChars":17,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/3a9oju5o","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/290na943","slide":5,"text":"四类核心能力，服务一次完整表达。","textPreview":"四类核心能力，服务一次完整表达。","textChars":16,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"shape","id":"sh/pcr6l4ne","slide":5,"bbox":[64,310,520,110]}
+{"kind":"textbox","id":"sh/obi5czm9","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[86,328,50,22]}
+{"kind":"textbox","id":"sh/je547a54","slide":5,"text":"品牌策略","textPreview":"品牌策略","textChars":4,"textLines":1,"bbox":[152,326,260,30]}
+{"kind":"textbox","id":"sh/idwne5oj","slide":5,"text":"定位梳理 / 创意方向 / 视觉系统","textPreview":"定位梳理 / 创意方向 / 视觉系统","textChars":18,"textLines":1,"bbox":[152,366,370,24]}
+{"kind":"shape","id":"sh/ojeh4jmx","slide":5,"bbox":[634,310,520,110]}
+{"kind":"textbox","id":"sh/pknixo3i","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[656,328,50,22]}
+{"kind":"textbox","id":"sh/2hwz2947","slide":5,"text":"产品叙事","textPreview":"产品叙事","textChars":4,"textLines":1,"bbox":[722,326,260,30]}
+{"kind":"textbox","id":"sh/3i50velc","slide":5,"text":"产品价值 / 场景表达 / 材质细节","textPreview":"产品价值 / 场景表达 / 材质细节","textChars":18,"textLines":1,"bbox":[722,366,370,24]}
+{"kind":"shape","id":"sh/cnyh8jm9","slide":5,"bbox":[64,455,520,110]}
+{"kind":"textbox","id":"sh/do7i1o3u","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[86,473,50,22]}
+{"kind":"textbox","id":"sh/qlgz6t43","slide":5,"text":"数字视觉","textPreview":"数字视觉","textChars":4,"textLines":1,"bbox":[152,471,260,30]}
+{"kind":"textbox","id":"sh/bmp0zelo","slide":5,"text":"三维动态 / AI视觉 / 影像制作","textPreview":"三维动态 / AI视觉 / 影像制作","textChars":18,"textLines":1,"bbox":[152,511,370,24]}
+{"kind":"shape","id":"sh/sruhwzmp","slide":5,"bbox":[634,455,520,110]}
+{"kind":"textbox","id":"sh/ts3yp43a","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[656,473,50,22]}
+{"kind":"textbox","id":"sh/tovetgfe","slide":5,"text":"整合交付","textPreview":"整合交付","textChars":4,"textLines":1,"bbox":[722,471,260,30]}
+{"kind":"textbox","id":"sh/8nmx0vet","slide":5,"text":"制作统筹 / 多端适配 / 上线支持","textPreview":"制作统筹 / 多端适配 / 上线支持","textChars":18,"textLines":1,"bbox":[722,511,370,24]}
+{"kind":"notes","id":"nt/y32g5j","slide":5,"text":""}
+{"kind":"slide","id":"sl/be8df4","slide":6,"title":"ABRADI","textShapes":17}
+{"kind":"shape","id":"sh/nad4ja18","slide":6,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/8bm5sf2t","slide":6,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/9cvmlkje","slide":6,"text":"CAPABILITY 01 / 品牌策略","textPreview":"CAPABILITY 01 / 品牌策略","textChars":20,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/udonupkz","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/vexonu14","slide":6,"text":"先做正确判断，再做有效表达。","textPreview":"先做正确判断，再做有效表达。","textChars":14,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/wz65wz2p","slide":6,"text":"通过定位、洞察与创意方向，为视觉制作建立明确坐标。","textPreview":"通过定位、洞察与创意方向，为视觉制作建立明确坐标。","textChars":25,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"textbox","id":"sh/h0f6p4ja","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[64,350,100,20]}
+{"kind":"textbox","id":"sh/qhkni5kf","slide":6,"text":"品牌定位","textPreview":"品牌定位","textChars":4,"textLines":1,"bbox":[64,390,240,28]}
+{"kind":"textbox","id":"sh/bit4bql0","slide":6,"text":"明确价值主张","textPreview":"明确价值主张","textChars":6,"textLines":1,"bbox":[64,432,230,25]}
+{"kind":"textbox","id":"sh/3ydw7alc","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[354,350,100,20]}
+{"kind":"textbox","id":"sh/2x4fe5kr","slide":6,"text":"创意方向","textPreview":"创意方向","textChars":4,"textLines":1,"bbox":[354,390,240,28]}
+{"kind":"textbox","id":"sh/p0ve9032","slide":6,"text":"确定创作原则","textPreview":"确定创作原则","textChars":6,"textLines":1,"bbox":[354,432,230,25]}
+{"kind":"textbox","id":"sh/4zmxgv2h","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[644,350,100,20]}
+{"kind":"textbox","id":"sh/futwjql0","slide":6,"text":"视觉系统","textPreview":"视觉系统","textChars":4,"textLines":1,"bbox":[644,390,240,28]}
+{"kind":"textbox","id":"sh/utkfalkf","slide":6,"text":"统一表达语言","textPreview":"统一表达语言","textChars":6,"textLines":1,"bbox":[644,432,230,25]}
+{"kind":"textbox","id":"sh/hwvel036","slide":6,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[934,350,100,20]}
+{"kind":"textbox","id":"sh/gv2xcv2l","slide":6,"text":"传播场景","textPreview":"传播场景","textChars":4,"textLines":1,"bbox":[934,390,240,28]}
+{"kind":"textbox","id":"sh/76twfql4","slide":6,"text":"匹配使用渠道","textPreview":"匹配使用渠道","textChars":6,"textLines":1,"bbox":[934,432,230,25]}
+{"kind":"notes","id":"nt/be8df4","slide":6,"text":""}
+{"kind":"slide","id":"sl/nvpgoj","slide":7,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/m5gbexc3","slide":7,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/98rapcbe","slide":7,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/87itg7ut","slide":7,"text":"CAPABILITY 02 / 数字视觉","textPreview":"CAPABILITY 02 / 数字视觉","textChars":20,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/va9srmtk","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/a90bihcz","slide":7,"text":"让产品、空间与技术，成为可感知的体验。","textPreview":"让产品、空间与技术，成为可感知的体验。","textChars":19,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/xcratcbq","slide":7,"text":"三维动态、产品渲染、AI视觉与影像内容制作。","textPreview":"三维动态、产品渲染、AI视觉与影像内容制作。","textChars":22,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/lsvito3i","slide":7,"name":"","bbox":[64,300,540,300]}
+{"kind":"image","id":"im/alkju94v","slide":7,"name":"","bbox":[660,300,540,300]}
+{"kind":"notes","id":"nt/nvpgoj","slide":7,"text":""}
+{"kind":"slide","id":"sl/q3un2g","slide":8,"title":"ABRADI","textShapes":13}
+{"kind":"shape","id":"sh/210nalk7","slide":8,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/p4rml03y","slide":8,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/o3i5cv2d","slide":8,"text":"CAPABILITY 03 / 制作与交付","textPreview":"CAPABILITY 03 / 制作与交付","textChars":21,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/fyp4fqlw","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/edg36lkb","slide":8,"text":"从创意到交付，保持一个项目节奏。","textPreview":"从创意到交付，保持一个项目节奏。","textChars":16,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/107mhg3m","slide":8,"text":"由项目负责人统筹内容、视觉、制作与上线适配。","textPreview":"由项目负责人统筹内容、视觉、制作与上线适配。","textChars":22,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"shape","id":"sh/gzyl8v2h","slide":8,"bbox":[64,310,510,95]}
+{"kind":"textbox","id":"sh/zut4bal0","slide":8,"text":"CREATIVE","textPreview":"CREATIVE","textChars":8,"textLines":1,"bbox":[88,328,180,22]}
+{"kind":"textbox","id":"sh/ytkni5kf","slide":8,"text":"策略 / 概念 / 视觉方向","textPreview":"策略 / 概念 / 视觉方向","textChars":14,"textLines":1,"bbox":[88,363,400,24]}
+{"kind":"shape","id":"sh/83ydwj6h","slide":8,"bbox":[624,310,510,95]}
+{"kind":"textbox","id":"sh/t47u5o7m","slide":8,"text":"VISUAL","textPreview":"VISUAL","textChars":6,"textLines":1,"bbox":[648,328,180,22]}
+{"kind":"textbox","id":"sh/61wbu9ob","slide":8,"text":"三维 / 动态 / AI视觉","textPreview":"三维 / 动态 / AI视觉","textChars":14,"textLines":1,"bbox":[648,363,400,24]}
+{"kind":"shape","id":"sh/725c3epw","slide":8,"bbox":[64,435,510,95]}
+{"kind":"textbox","id":"sh/kzetsz65","slide":8,"text":"CONTENT","textPreview":"CONTENT","textChars":7,"textLines":1,"bbox":[88,453,180,22]}
+{"kind":"textbox","id":"sh/l0nu147q","slide":8,"text":"导演 / 摄影 / 剪辑制作","textPreview":"导演 / 摄影 / 剪辑制作","textChars":14,"textLines":1,"bbox":[88,488,400,24]}
+{"kind":"shape","id":"sh/ydwbq9oz","slide":8,"bbox":[624,435,510,95]}
+{"kind":"textbox","id":"sh/jy5czupk","slide":8,"text":"TECH","textPreview":"TECH","textChars":4,"textLines":1,"bbox":[648,453,180,22]}
+{"kind":"textbox","id":"sh/wbut4zq9","slide":8,"text":"互动 / 屏幕 / 多端适配","textPreview":"互动 / 屏幕 / 多端适配","textChars":14,"textLines":1,"bbox":[648,488,400,24]}
+{"kind":"notes","id":"nt/q3un2g","slide":8,"text":""}
+{"kind":"slide","id":"sl/ap1rwb","slide":9,"title":"ABRADI","textShapes":17}
+{"kind":"shape","id":"sh/nm94jm9c","slide":9,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/8ni5srah","slide":9,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/9ormlwr2","slide":9,"text":"INDUSTRY COVERAGE / 服务行业","textPreview":"INDUSTRY COVERAGE / 服务行业","textChars":24,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/yxgnmhsf","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/zyp4f290","slide":9,"text":"跨行业理解，回到品牌真实场景。","textPreview":"跨行业理解，回到品牌真实场景。","textChars":15,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/0zi5o7al","slide":9,"text":"根据品类、受众与传播任务，选择适合的视觉表达方式。","textPreview":"根据品类、受众与传播任务，选择适合的视觉表达方式。","textChars":25,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"textbox","id":"sh/l0rmhcr6","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[64,350,80,20]}
+{"kind":"textbox","id":"sh/qtg3ixsj","slide":9,"text":"智能家居","textPreview":"智能家居","textChars":4,"textLines":1,"bbox":[64,387,230,26]}
+{"kind":"textbox","id":"sh/bup4b294","slide":9,"text":"卫浴 / 厨电 / 空间","textPreview":"卫浴 / 厨电 / 空间","textChars":12,"textLines":1,"bbox":[64,426,230,24]}
+{"kind":"shape","id":"sh/byhsna5g","slide":9,"bbox":[64,478,210,3]}
+{"kind":"textbox","id":"sh/ax8bupov","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[354,350,80,20]}
+{"kind":"textbox","id":"sh/x0japknm","slide":9,"text":"交通出行","textPreview":"交通出行","textChars":4,"textLines":1,"bbox":[354,387,230,26]}
+{"kind":"textbox","id":"sh/czqtwf61","slide":9,"text":"轨交 / 汽车 / 工业","textPreview":"轨交 / 汽车 / 工业","textChars":12,"textLines":1,"bbox":[354,426,230,24]}
+{"kind":"shape","id":"sh/zm1sru5s","slide":9,"bbox":[354,478,210,3]}
+{"kind":"textbox","id":"sh/y1sbypo7","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[644,350,80,20]}
+{"kind":"textbox","id":"sh/lojat4ny","slide":9,"text":"美妆健康","textPreview":"美妆健康","textChars":4,"textLines":1,"bbox":[644,387,230,26]}
+{"kind":"textbox","id":"sh/knat0z6d","slide":9,"text":"护肤 / 医美 / 科技美容","textPreview":"护肤 / 医美 / 科技美容","textChars":14,"textLines":1,"bbox":[644,426,230,24]}
+{"kind":"shape","id":"sh/fqxsfq58","slide":9,"bbox":[644,478,210,3]}
+{"kind":"textbox","id":"sh/e5ormlo3","slide":9,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[934,350,80,20]}
+{"kind":"textbox","id":"sh/ilwvut8b","slide":9,"text":"消费科技","textPreview":"消费科技","textChars":4,"textLines":1,"bbox":[934,387,230,26]}
+{"kind":"textbox","id":"sh/3m5w3ypw","slide":9,"text":"数码 / 硬件 / 新产品","textPreview":"数码 / 硬件 / 新产品","textChars":13,"textLines":1,"bbox":[934,426,230,24]}
+{"kind":"shape","id":"sh/4nedw3qh","slide":9,"bbox":[934,478,210,3]}
+{"kind":"notes","id":"nt/ap1rwb","slide":9,"text":""}
+{"kind":"slide","id":"sl/l6yk2y","slide":10,"title":"ABRADI","textShapes":9}
+{"kind":"shape","id":"sh/zil0nip0","slide":10,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/0ju1gnql","slide":10,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/lkn2ps76","slide":10,"text":"SELECTED PARTNERS / 合作伙伴","textPreview":"SELECTED PARTNERS / 合作伙伴","textChars":24,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/qtcjad8j","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/bul0jip4","slide":10,"text":"合作品牌，覆盖多个国际化产品领域。","textPreview":"合作品牌，覆盖多个国际化产品领域。","textChars":17,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/cvu1c3qp","slide":10,"text":"以下品牌在既有案例素材中出现；完整Logo墙可在取得授权后补充。","textPreview":"以下品牌在既有案例素材中出现；完整Logo墙可在取得授权后补充。","textChars":32,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"shape","id":"sh/dw3il87a","slide":10,"bbox":[64,370,245,105]}
+{"kind":"textbox","id":"sh/apwjmxon","slide":10,"text":"KOHLER","textPreview":"KOHLER","textChars":6,"textLines":1,"bbox":[64,405,245,30]}
+{"kind":"shape","id":"sh/vq5kv2p8","slide":10,"bbox":[354,370,245,105]}
+{"kind":"textbox","id":"sh/jq1o3qx4","slide":10,"text":"TUBLER","textPreview":"TUBLER","textChars":6,"textLines":1,"bbox":[354,405,245,30]}
+{"kind":"shape","id":"sh/ipsnulgj","slide":10,"bbox":[644,370,245,105]}
+{"kind":"textbox","id":"sh/5sj650fa","slide":10,"text":"MESTETIC","textPreview":"MESTETIC","textChars":8,"textLines":1,"bbox":[644,405,245,30]}
+{"kind":"shape","id":"sh/kra5wvyp","slide":10,"bbox":[934,370,245,105]}
+{"kind":"textbox","id":"sh/7ulo7ax0","slide":10,"text":"BRILLIANCE","textPreview":"BRILLIANCE","textChars":10,"textLines":1,"bbox":[934,405,245,30]}
+{"kind":"notes","id":"nt/l6yk2y","slide":10,"text":""}
+{"kind":"slide","id":"sl/cah52e","slide":11,"title":"ABRADI","textShapes":17}
+{"kind":"shape","id":"sh/cnils3at","slide":11,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/bm9kjy98","slide":11,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/ql0jqtsn","slide":11,"text":"WORKING PROCESS / 合作流程","textPreview":"WORKING PROCESS / 合作流程","textChars":22,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/lcb2psra","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/kb2lwnqp","slide":11,"text":"让好创意，有一条清晰的落地路径。","textPreview":"让好创意，有一条清晰的落地路径。","textChars":16,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/zq9kni94","slide":11,"text":"关键节点确认，确保创意、制作与交付保持同一节奏。","textPreview":"关键节点确认，确保创意、制作与交付保持同一节奏。","textChars":24,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"shape","id":"sh/yp03udsz","slide":11,"bbox":[64,380,245,130]}
+{"kind":"textbox","id":"sh/1g72dor6","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[84,400,50,20]}
+{"kind":"textbox","id":"sh/gfy1kjal","slide":11,"text":"DEFINE","textPreview":"DEFINE","textChars":6,"textLines":1,"bbox":[84,432,200,28]}
+{"kind":"textbox","id":"sh/qhgjmpkv","slide":11,"text":"目标 / 受众 / 场景","textPreview":"目标 / 受众 / 场景","textChars":12,"textLines":1,"bbox":[84,472,205,20]}
+{"kind":"shape","id":"sh/r2p0vulg","slide":11,"bbox":[354,380,245,130]}
+{"kind":"textbox","id":"sh/c3y1oz21","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[374,400,50,20]}
+{"kind":"textbox","id":"sh/d47ix43m","slide":11,"text":"DIRECT","textPreview":"DIRECT","textChars":6,"textLines":1,"bbox":[374,432,200,28]}
+{"kind":"textbox","id":"sh/e50jq9kr","slide":11,"text":"策略 / 概念 / 风格","textPreview":"策略 / 概念 / 风格","textChars":12,"textLines":1,"bbox":[374,472,205,20]}
+{"kind":"shape","id":"sh/z69kzelc","slide":11,"bbox":[644,380,245,130]}
+{"kind":"textbox","id":"sh/07i1sz2x","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[664,400,50,20]}
+{"kind":"textbox","id":"sh/18r214ji","slide":11,"text":"MAKE","textPreview":"MAKE","textChars":4,"textLines":1,"bbox":[664,432,200,28]}
+{"kind":"textbox","id":"sh/m90ju9k3","slide":11,"text":"制作 / 打磨 / 把控","textPreview":"制作 / 打磨 / 把控","textChars":12,"textLines":1,"bbox":[664,472,205,20]}
+{"kind":"shape","id":"sh/na9k3e1o","slide":11,"bbox":[934,380,245,130]}
+{"kind":"textbox","id":"sh/jet0behg","slide":11,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[954,400,50,20]}
+{"kind":"textbox","id":"sh/ydkzi90b","slide":11,"text":"DEPLOY","textPreview":"DEPLOY","textChars":6,"textLines":1,"bbox":[954,432,200,28]}
+{"kind":"textbox","id":"sh/l0bidozm","slide":11,"text":"交付 / 适配 / 上线","textPreview":"交付 / 适配 / 上线","textChars":12,"textLines":1,"bbox":[954,472,205,20]}
+{"kind":"notes","id":"nt/cah52e","slide":11,"text":""}
+{"kind":"slide","id":"sl/ig69t6","slide":12,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/fidgjahc","slide":12,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/0jmxcfyx","slide":12,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/1kvylkzi","slide":12,"text":"PROJECT CASE / SMART SANITARY / 智能卫浴","textPreview":"PROJECT CASE / SMART SANITARY / 智能卫浴","textChars":36,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/2l4fe5g3","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/nmdgnaho","slide":12,"text":"SMART SANITARY / 智能卫浴","textPreview":"SMART SANITARY / 智能卫浴","textChars":21,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/onmxgfy9","slide":12,"text":"以产品、空间与动态光感，建立可感知的科技体验。","textPreview":"以产品、空间与动态光感，建立可感知的科技体验。","textChars":23,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/kba94n6p","slide":12,"name":"","bbox":[64,285,1152,340]}
+{"kind":"notes","id":"nt/ig69t6","slide":12,"text":""}
+{"kind":"slide","id":"sl/9aja6a","slide":13,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/4bi9gnyl","slide":13,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/ja98n2x0","slide":13,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/i90rexgv","slide":13,"text":"PROJECT CASE / KOHLER WATER / 科勒净水","textPreview":"PROJECT CASE / KOHLER WATER / 科勒净水","textChars":34,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/t0ratcfi","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/sfi9k7yx","slide":13,"text":"KOHLER WATER / 科勒净水","textPreview":"KOHLER WATER / 科勒净水","textChars":19,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/re98r2xc","slide":13,"text":"以清晰的产品细节，传递科技与品质。","textPreview":"以清晰的产品细节，传递科技与品质。","textChars":17,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/rudsrax0","slide":13,"name":"","bbox":[64,285,1152,340]}
+{"kind":"notes","id":"nt/9aja6a","slide":13,"text":""}
+{"kind":"slide","id":"sl/p39wc4","slide":14,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/w7q1wjux","slide":14,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/v6hknedc","slide":14,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/u58ju9cr","slide":14,"text":"PROJECT CASE / RAIL TRANSIT / 轨交视觉","textPreview":"PROJECT CASE / RAIL TRANSIT / 轨交视觉","textChars":34,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/94f2l4v6","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/8361szu1","slide":14,"text":"RAIL TRANSIT / 轨交视觉","textPreview":"RAIL TRANSIT / 轨交视觉","textChars":19,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/7ixkjudg","slide":14,"text":"以速度、结构与光线建立未来感叙事。","textPreview":"以速度、结构与光线建立未来感叙事。","textChars":17,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/ba10zih0","slide":14,"name":"","bbox":[64,285,1152,340]}
+{"kind":"notes","id":"nt/p39wc4","slide":14,"text":""}
+{"kind":"slide","id":"sl/mqnjr6","slide":15,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/0vm1s7i1","slide":15,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/zud0z21g","slide":15,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/yt4zqx0v","slide":15,"text":"PROJECT CASE / BEAUTY VISUAL / 美妆视觉","textPreview":"PROJECT CASE / BEAUTY VISUAL / 美妆视觉","textChars":35,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/dsvixsja","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/crmhoni5","slide":15,"text":"BEAUTY VISUAL / 美妆视觉","textPreview":"BEAUTY VISUAL / 美妆视觉","textChars":20,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/bqt0vi1k","slide":15,"text":"让功效、质感与场景形成统一品牌感知。","textPreview":"让功效、质感与场景形成统一品牌感知。","textChars":18,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/3ix8jalk","slide":15,"name":"","bbox":[64,285,1152,340]}
+{"kind":"notes","id":"nt/mqnjr6","slide":15,"text":""}
+{"kind":"slide","id":"sl/ge72sr","slide":16,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/yl8rix8f","slide":16,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/l8jads7q","slide":16,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/k7a9k7q5","slide":16,"text":"PROJECT CASE / PRODUCT DETAIL / 龙头项目","textPreview":"PROJECT CASE / PRODUCT DETAIL / 龙头项目","textChars":36,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/7a1sf2pw","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/m9sr6x8b","slide":16,"text":"PRODUCT DETAIL / 龙头项目","textPreview":"PRODUCT DETAIL / 龙头项目","textChars":21,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/9cjahc72","slide":16,"text":"用材质、比例与局部细节构建产品价值。","textPreview":"用材质、比例与局部细节构建产品价值。","textChars":18,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/pon6ts36","slide":16,"name":"","bbox":[64,285,1152,340]}
+{"kind":"notes","id":"nt/ge72sr","slide":16,"text":""}
+{"kind":"slide","id":"sl/lxsmou","slide":17,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/y1knud4b","slide":17,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/l4v65s3m","slide":17,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/k3mpwnm1","slide":17,"text":"PROJECT CASE / CONSUMER TECH / 智能产品","textPreview":"PROJECT CASE / CONSUMER TECH / 智能产品","textChars":35,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/76do7ils","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/m547yd47","slide":17,"text":"CONSUMER TECH / 智能产品","textPreview":"CONSUMER TECH / 智能产品","textChars":20,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/9sv69s3y","slide":17,"text":"用数字化表达呈现产品技术与使用体验。","textPreview":"用数字化表达呈现产品技术与使用体验。","textChars":18,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/pcbm1czi","slide":17,"name":"","bbox":[64,285,1152,340]}
+{"kind":"notes","id":"nt/lxsmou","slide":17,"text":""}
+{"kind":"slide","id":"sl/hlvbml","slide":18,"title":"ABRADI","textShapes":5}
+{"kind":"shape","id":"sh/5cnm98b2","slide":18,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/ipw3edcb","slide":18,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/jq547ytw","slide":18,"text":"PROJECT CASE / HOME AESTHETIC / 家居美学","textPreview":"PROJECT CASE / HOME AESTHETIC / 家居美学","textChars":36,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/sfylknut","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/tg7mdsby","slide":18,"text":"HOME AESTHETIC / 家居美学","textPreview":"HOME AESTHETIC / 家居美学","textChars":21,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/6dw3idcn","slide":18,"text":"用空间场景连接产品、生活与品牌感受。","textPreview":"用空间场景连接产品、生活与品牌感受。","textChars":18,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"image","id":"im/ut8bux03","slide":18,"name":"","bbox":[64,285,1152,340]}
+{"kind":"notes","id":"nt/hlvbml","slide":18,"text":""}
+{"kind":"slide","id":"sl/9f46i8","slide":19,"title":"ABRADI","textShapes":13}
+{"kind":"shape","id":"sh/y143e10j","slide":19,"bbox":[0,0,1280,7]}
+{"kind":"textbox","id":"sh/l4f2pgza","slide":19,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[64,34,130,24]}
+{"kind":"textbox","id":"sh/k36lgbip","slide":19,"text":"TEAM & NETWORK / 团队与资源","textPreview":"TEAM & NETWORK / 团队与资源","textChars":22,"textLines":1,"bbox":[64,78,480,20]}
+{"kind":"textbox","id":"sh/bydkj6h8","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1140,38,72,18]}
+{"kind":"textbox","id":"sh/ad4ja10n","slide":19,"text":"核心团队统筹，专业资源协同。","textPreview":"核心团队统筹，专业资源协同。","textChars":14,"textLines":1,"bbox":[64,124,720,58]}
+{"kind":"textbox","id":"sh/x0v2lwze","slide":19,"text":"为每个项目匹配创意、三维、影像、后期与技术能力。","textPreview":"为每个项目匹配创意、三维、影像、后期与技术能力。","textChars":24,"textLines":1,"bbox":[64,194,760,42]}
+{"kind":"shape","id":"sh/czmlcrit","slide":19,"bbox":[64,350,245,150]}
+{"kind":"textbox","id":"sh/vuhkvqhc","slide":19,"text":"创意策略","textPreview":"创意策略","textChars":4,"textLines":1,"bbox":[84,388,200,28]}
+{"kind":"textbox","id":"sh/uto3ml0r","slide":19,"text":"方向与概念","textPreview":"方向与概念","textChars":5,"textLines":1,"bbox":[84,430,200,22]}
+{"kind":"shape","id":"sh/4vy1wjal","slide":19,"bbox":[354,350,245,150]}
+{"kind":"textbox","id":"sh/5w72por6","slide":19,"text":"三维动态","textPreview":"三维动态","textChars":4,"textLines":1,"bbox":[374,388,200,28]}
+{"kind":"textbox","id":"sh/i9gju9sv","slide":19,"text":"视觉与动画","textPreview":"视觉与动画","textChars":5,"textLines":1,"bbox":[374,430,200,22]}
+{"kind":"shape","id":"sh/3upkne90","slide":19,"bbox":[644,350,245,150]}
+{"kind":"textbox","id":"sh/g7e1szap","slide":19,"text":"影像内容","textPreview":"影像内容","textChars":4,"textLines":1,"bbox":[664,388,200,28]}
+{"kind":"textbox","id":"sh/h8n2l4ra","slide":19,"text":"拍摄与剪辑","textPreview":"拍摄与剪辑","textChars":5,"textLines":1,"bbox":[664,430,200,22]}
+{"kind":"shape","id":"sh/u5wjqpsj","slide":19,"bbox":[934,350,245,150]}
+{"kind":"textbox","id":"sh/v65kju94","slide":19,"text":"项目管理","textPreview":"项目管理","textChars":4,"textLines":1,"bbox":[954,388,200,28]}
+{"kind":"textbox","id":"sh/83e1ozad","slide":19,"text":"统筹与交付","textPreview":"统筹与交付","textChars":5,"textLines":1,"bbox":[954,430,200,22]}
+{"kind":"notes","id":"nt/9f46i8","slide":19,"text":""}
+{"kind":"slide","id":"sl/9era9c","slide":20,"title":"ABRADI","textShapes":7}
+{"kind":"shape","id":"sh/r2t0n6xw","slide":20,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/s32hgbyh","slide":20,"text":"ABRADI","textPreview":"ABRADI","textChars":6,"textLines":1,"bbox":[72,92,300,34]}
+{"kind":"textbox","id":"sh/t4bipwfm","slide":20,"text":"让每一次表达，\n成为品牌被记住的理由。","textPreview":"让每一次表达， | 成为品牌被记住的理由。","textChars":19,"textLines":2,"bbox":[72,158,650,112]}
+{"kind":"textbox","id":"sh/e5kzi1g7","slide":20,"text":"上海阿布拉迪广告有限公司","textPreview":"上海阿布拉迪广告有限公司","textChars":12,"textLines":1,"bbox":[72,370,480,28]}
+{"kind":"textbox","id":"sh/f6d0r6xs","slide":20,"text":"电话  /  TEL","textPreview":"电话  /  TEL","textChars":10,"textLines":1,"bbox":[72,445,180,20]}
+{"kind":"textbox","id":"sh/g7m1kbyd","slide":20,"text":"150 0183 4029","textPreview":"150 0183 4029","textChars":13,"textLines":1,"bbox":[72,478,410,38]}
+{"kind":"textbox","id":"sh/18vitgfy","slide":20,"text":"邮箱  /  EMAIL","textPreview":"邮箱  /  EMAIL","textChars":12,"textLines":1,"bbox":[650,445,180,20]}
+{"kind":"textbox","id":"sh/u90z6hg3","slide":20,"text":"abld@abuladi.cn","textPreview":"abld@abuladi.cn","textChars":15,"textLines":1,"bbox":[650,478,410,38]}
+{"kind":"notes","id":"nt/9era9c","slide":20,"text":""}
